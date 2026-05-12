@@ -1,0 +1,390 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Coreshift Tender Screener</title>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 14px;
+  color: #1a1a1a;
+  background: #fafaf8;
+  line-height: 1.45;
+}
+.wrap { max-width: 1280px; margin: 0 auto; padding: 20px 24px 80px; }
+header { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 4px; }
+h1 { font-size: 20px; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
+.subtitle { font-size: 12px; color: #888; }
+.banner {
+  background: #f4f7fb;
+  border: 1px solid #d8e2ef;
+  color: #2b4868;
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+  margin: 12px 0 18px;
+  display: flex; gap: 16px; flex-wrap: wrap; align-items: center;
+}
+.banner strong { color: #1a3050; }
+.banner .new-pill {
+  display: inline-block; font-size: 11px; font-weight: 600;
+  padding: 2px 7px; background: #d6f3dc; color: #126b29; border-radius: 3px;
+}
+.toolbar {
+  display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+  padding: 10px 12px; background: #fff; border: 1px solid #eaeae3;
+  border-radius: 8px; margin-bottom: 14px;
+}
+.toolbar label { font-size: 12px; color: #555; display: flex; align-items: center; gap: 6px; }
+.toolbar input[type=text], .toolbar select {
+  font-size: 13px; padding: 5px 8px; border: 1px solid #d6d6cf; border-radius: 5px;
+  background: #fff;
+}
+.toolbar input[type=range] { width: 110px; }
+.counts { margin-left: auto; font-size: 12px; color: #777; }
+table { width: 100%; border-collapse: separate; border-spacing: 0; background: #fff;
+  border: 1px solid #eaeae3; border-radius: 8px; overflow: hidden; }
+thead th {
+  font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: #777;
+  font-weight: 600; text-align: left; padding: 10px 12px;
+  background: #f6f6f0; border-bottom: 1px solid #eaeae3; cursor: pointer; user-select: none;
+}
+thead th.sortable:hover { background: #efefe7; }
+thead th .sort-ind { color: #bbb; margin-left: 3px; font-size: 10px; }
+tbody td { padding: 10px 12px; border-bottom: 1px solid #f0f0e8; vertical-align: top; }
+tbody tr:last-child td { border-bottom: none; }
+tbody tr.dismissed { opacity: 0.42; }
+tbody tr.expanded > td { background: #fbfaf3; }
+.star { font-size: 16px; cursor: pointer; user-select: none; color: #ccc; }
+.star.on { color: #f5b400; }
+.fit { display: inline-flex; align-items: center; justify-content: center;
+  min-width: 30px; padding: 2px 7px; border-radius: 4px;
+  font-weight: 600; font-size: 12px; font-variant-numeric: tabular-nums; }
+.fit.s90 { background: #d6f3dc; color: #126b29; }
+.fit.s70 { background: #e6f3d6; color: #3d6b12; }
+.fit.s50 { background: #fdf4cd; color: #7a5800; }
+.fit.s30 { background: #fde0cd; color: #803400; }
+.fit.s0  { background: #f0e0e0; color: #6b1212; }
+.close-date { font-variant-numeric: tabular-nums; font-size: 13px; }
+.close-date .days { display: block; font-size: 11px; color: #888; }
+.close-date.urgent .days { color: #b00; font-weight: 600; }
+.close-date.soon .days   { color: #c87800; font-weight: 600; }
+.title-cell { font-weight: 500; cursor: pointer; }
+.title-cell:hover { color: #0a58c2; }
+.title-cell .new-tag {
+  display: inline-block; font-size: 10px; font-weight: 700; letter-spacing: 0.04em;
+  padding: 1px 5px; background: #d6f3dc; color: #126b29; border-radius: 3px;
+  margin-right: 6px; vertical-align: middle;
+}
+.agency { font-size: 12px; color: #555; }
+.type-pill {
+  display: inline-block; font-size: 11px; padding: 1px 6px;
+  background: #eef0f2; color: #444; border-radius: 3px;
+}
+.ref { font-size: 11px; color: #888; font-variant-numeric: tabular-nums; }
+.actions { display: flex; gap: 4px; }
+.btn {
+  font-size: 11px; padding: 3px 8px; border: 1px solid #d6d6cf;
+  background: #fff; border-radius: 4px; cursor: pointer; color: #444;
+}
+.btn:hover { background: #f3f3ee; }
+.btn.danger:hover { background: #ffeaea; color: #a00; border-color: #f0bbbb; }
+.btn.primary { background: #0a58c2; color: #fff; border-color: #0a58c2; }
+.btn.primary:hover { background: #094aa3; }
+.expand-row td { padding: 14px 18px 16px; background: #fbfaf3; }
+.expand-grid {
+  display: grid; grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 22px;
+}
+.expand-grid h4 { margin: 0 0 6px; font-size: 12px; text-transform: uppercase;
+  letter-spacing: 0.04em; color: #777; font-weight: 600; }
+.reasons { list-style: none; padding: 0; margin: 0; }
+.reasons li { font-size: 13px; padding: 3px 0; }
+.reasons li.plus::before  { content: "+ "; color: #126b29; font-weight: 700; }
+.reasons li.minus::before { content: "− "; color: #a00; font-weight: 700; }
+.reasons li.neutral::before { content: "· "; color: #888; }
+.notes-box { width: 100%; min-height: 70px; padding: 8px; border: 1px solid #d6d6cf;
+  border-radius: 5px; font-family: inherit; font-size: 13px; resize: vertical;
+  background: #fff; }
+.meta-line { font-size: 12px; color: #666; margin-top: 8px; }
+.meta-line a { color: #0a58c2; }
+.empty { text-align: center; padding: 36px; color: #888; font-size: 13px; }
+.legend { font-size: 11px; color: #777; margin-top: 12px; display: flex; gap: 14px; flex-wrap: wrap; }
+.legend span { display: inline-flex; align-items: center; gap: 5px; }
+.swatch { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+.footnote { font-size: 11px; color: #999; margin-top: 24px; text-align: center; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Tender Screener — Coreshift</h1>
+  <span class="subtitle">NZ GETS · light triage</span>
+  <span class="counts" id="counts"></span>
+</header>
+
+<div class="banner">
+  <span><strong>Last refreshed:</strong> Wed 13 May 2026, 11:02 AM NZ</span>
+  <span><strong>25</strong> active tenders</span>
+  
+  <span style="margin-left:auto;color:#7a8ba0;font-size:12px;">Scoring is metadata-only (title). Click through to GETS for the full RFP.</span>
+</div>
+
+<div class="toolbar">
+  <label>Show
+    <select id="filter-status">
+      <option value="active">Active (not dismissed)</option>
+      <option value="starred">Starred only</option>
+      <option value="new">New only</option>
+      <option value="dismissed">Dismissed only</option>
+      <option value="all">All</option>
+    </select>
+  </label>
+  <label>Agency
+    <input type="text" id="filter-agency" placeholder="any" size="14">
+  </label>
+  <label>Title
+    <input type="text" id="filter-title" placeholder="keyword" size="14">
+  </label>
+  <label>Min fit
+    <input type="range" id="filter-fit" min="0" max="100" value="0" step="5">
+    <span id="filter-fit-val" style="min-width:24px;text-align:right;font-variant-numeric:tabular-nums;">0</span>
+  </label>
+  <label>Hide closed
+    <input type="checkbox" id="filter-open" checked>
+  </label>
+</div>
+
+<table id="tender-table">
+  <thead><tr>
+    <th style="width:28px"></th>
+    <th class="sortable" data-sort="fitScore">Fit <span class="sort-ind">▼</span></th>
+    <th class="sortable" data-sort="daysToClose">Close <span class="sort-ind"></span></th>
+    <th class="sortable" data-sort="title" style="min-width:280px">Tender <span class="sort-ind"></span></th>
+    <th class="sortable" data-sort="organization">Agency <span class="sort-ind"></span></th>
+    <th>Type</th>
+    <th></th>
+  </tr></thead>
+  <tbody id="tbody"></tbody>
+</table>
+
+<div class="legend">
+  <span><span class="swatch" style="background:#d6f3dc"></span>Strong fit (≥80)</span>
+  <span><span class="swatch" style="background:#e6f3d6"></span>Worth a read (60–79)</span>
+  <span><span class="swatch" style="background:#fdf4cd"></span>Marginal (40–59)</span>
+  <span><span class="swatch" style="background:#fde0cd"></span>Weak (20–39)</span>
+  <span><span class="swatch" style="background:#f0e0e0"></span>Auto-reject (&lt;20)</span>
+</div>
+
+<p class="footnote">Stars / dismissals / notes persist in this browser only. Generated 2026-05-13T11:02:49+12:00.</p>
+
+</div>
+
+<script>
+const ITEMS = [{"rfxId": "33867946", "referenceNumber": "2026-07", "title": "2026-07 - Building Outlines Capture", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "Land Information New Zealand", "closeDateRaw": "12:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T12:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/LINZ/ExternalTenderDetails.htm?id=33867946", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:01.743Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33877490", "referenceNumber": "[None]", "title": "Catering Services for Tāmaki Makaurau Region", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "Te Wānanga o Aotearoa", "closeDateRaw": "12:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T12:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/TWA/ExternalTenderDetails.htm?id=33877490", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:01.824Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33979869", "referenceNumber": "[None]", "title": "Request for Proposal Phase 1 - Marsden Point Rail Link Programme", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "KiwiRail Group", "closeDateRaw": "12:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T12:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=33979869", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:01.852Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33882311", "referenceNumber": "TMT017-2526-M", "title": "Suicide Prevention Postvention Coordination Service - Western BoP", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "Health New Zealand (Te Whatu Ora)", "closeDateRaw": "12:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T12:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33882311", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:01.888Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33909704", "referenceNumber": "26-034", "title": "Commercial Kitchen Hood Servicing", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "University of Canterbury", "closeDateRaw": "2:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T14:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/UC/ExternalTenderDetails.htm?id=33909704", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:01.926Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33915429", "referenceNumber": "P2026-725", "title": "P2026-725 Wastewater Growth Programme - Waipatu Trunk Main - Construction", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "Hastings District Council", "closeDateRaw": "3:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T15:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/HASDC/ExternalTenderDetails.htm?id=33915429", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:01.956Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33931856", "referenceNumber": "CON26012", "title": "Poroti Water Treatment plant - Upgrade", "tenderType": "Registration of Interest", "tenderTypeCode": "ROI", "organization": "Whangarei District Council", "closeDateRaw": "3:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T15:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/WHADC/ExternalTenderDetails.htm?id=33931856", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:01.986Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33933852", "referenceNumber": "[None]", "title": "REOI for ACG Technical Services Supplier Selection T4 –  Contaminated Land", "tenderType": "Registration of Interest", "tenderTypeCode": "ROI", "organization": "Auckland Council", "closeDateRaw": "4:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T16:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/AC/ExternalTenderDetails.htm?id=33933852", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.037Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33863491", "referenceNumber": "C26/01", "title": "South Taranaki District Council Bridge and Structures Professional Services", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "South Taranaki District Council", "closeDateRaw": "4:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T16:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=33863491", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.062Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33863292", "referenceNumber": "C26/02", "title": "South Taranaki District Council Resealing 2026 to 2029", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "South Taranaki District Council", "closeDateRaw": "4:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T16:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=33863292", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.095Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33889802", "referenceNumber": "21097", "title": "Portable Photosynthesis Meter", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "New Zealand Institute for Bioeconomy Science Limited", "closeDateRaw": "4:30 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T16:30:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=33889802", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.125Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "34043196", "referenceNumber": "746-26-835-PS", "title": "746-26-835-PS Airport to Botany Stage 2 Optioneering/Scheme Design Services", "tenderType": "Notice of Information (Advance Notice)", "tenderTypeCode": "NOI", "organization": "Auckland Transport", "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T17:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/AT/ExternalTenderDetails.htm?id=34043196", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.151Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33884041", "referenceNumber": "[None]", "title": "CON1164 General Bridge Repairs - Bridge Concrete Repairs and Ancillary Works - Package 2", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "Kaipara District Council", "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T17:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/KAIPDC/ExternalTenderDetails.htm?id=33884041", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.178Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33858522", "referenceNumber": "EMS-001", "title": "Energy Management Services", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "Inland Revenue Department", "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T17:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/IRD/ExternalTenderDetails.htm?id=33858522", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.205Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33828967", "referenceNumber": "251606", "title": "Main Building Contractor for North East Valley School- 1: Mould Remediation", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "Ministry of Education - School Infrastructure", "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T17:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33828967", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.237Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33832366", "referenceNumber": "3115.05", "title": "Main Building Contractor for the Roofing Repairs & Classroom Upgrade at Bell Block Primary School", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "Ministry of Education - School Infrastructure", "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T17:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33832366", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.269Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33893619", "referenceNumber": "6141", "title": "RFT - Main Building Contractor for AMS/LSC combined Blocks 1, 2, 4 - Windows, Classrooms, Hall Kitchen, LSC Office at Cannons Creek School, Porirua", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "Ministry of Education - School Infrastructure", "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T17:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33893619", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.294Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33954143", "referenceNumber": "255652", "title": "ROI for Main Contractor for V: Reclad & Asbestos Removal at Mahurangi College", "tenderType": "Registration of Interest", "tenderTypeCode": "ROI", "organization": "Ministry of Education - School Infrastructure", "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T17:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33954143", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.330Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33829535", "referenceNumber": "[None]", "title": "Aerial Surveillance and Related Services", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "New Zealand Customs Service", "closeDateRaw": "12:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-14T12:00:00+12:00", "daysToClose": 2, "status": "open", "url": "https://www.gets.govt.nz/NZCS/ExternalTenderDetails.htm?id=33829535", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.344Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33818182", "referenceNumber": "CC-25-C-000064", "title": "Health New Zealand CCHV Lift Renewal Tranche 3 Silver Lifts Refurbishment", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "Health New Zealand (Te Whatu Ora)", "closeDateRaw": "12:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-14T12:00:00+12:00", "daysToClose": 2, "status": "open", "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33818182", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.374Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33899614", "referenceNumber": "25CEN016M", "title": "Peer support specialists in Hutt Hospital Emergency Department and a crisis recovery cafe service – Lower Hutt", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "Health New Zealand (Te Whatu Ora)", "closeDateRaw": "12:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-14T12:00:00+12:00", "daysToClose": 2, "status": "open", "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33899614", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.387Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33895253", "referenceNumber": "2026-108", "title": "Wellington Waterfront Safety Enhancements: Lighting - Waitangi Stream and Queens Wharf", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "Wellington City Council", "closeDateRaw": "12:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-14T12:00:00+12:00", "daysToClose": 2, "status": "open", "url": "https://www.gets.govt.nz/WCC/ExternalTenderDetails.htm?id=33895253", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.406Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33919418", "referenceNumber": "C26-013", "title": "Microfluid Encapsulator System", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "University of Auckland", "closeDateRaw": "1:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-14T13:00:00+12:00", "daysToClose": 2, "status": "open", "url": "https://www.gets.govt.nz/UA/ExternalTenderDetails.htm?id=33919418", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.435Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33918584", "referenceNumber": "26/05", "title": "Wairoa Bridge Repairs Package 5", "tenderType": "Request for Tenders", "tenderTypeCode": "RFT", "organization": "Wairoa District Council", "closeDateRaw": "1:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-14T13:00:00+12:00", "daysToClose": 2, "status": "open", "url": "https://www.gets.govt.nz/WAIRDC/ExternalTenderDetails.htm?id=33918584", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.512Z", "fitScore": 50, "reasons": [], "isNew": false}, {"rfxId": "33796371", "referenceNumber": "1006141", "title": "As Required Contractor Panel 2026-2029", "tenderType": "Request for Proposals", "tenderTypeCode": "RFP", "organization": "Waikato Regional Council", "closeDateRaw": "4:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)", "closeDateIso": "2026-05-13T16:00:00+12:00", "daysToClose": 1, "status": "open", "url": "https://www.gets.govt.nz/WARC/ExternalTenderDetails.htm?id=33796371", "contractValue": 0, "scrapedAt": "2026-05-12T22:58:02.009Z", "fitScore": 10, "reasons": [{"kind": "minus", "text": "Panel procurement (multi-supplier)"}], "isNew": false}];
+
+const LS_KEY = "coreshift_tender_screener_v1";
+let state = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
+state.starred  = new Set(state.starred  || []);
+state.dismissed = new Set(state.dismissed || []);
+state.notes    = state.notes || {};
+state.expanded = new Set(state.expanded || []);
+state.sortBy   = state.sortBy || "fitScore";
+state.sortDir  = state.sortDir || "desc";
+
+function saveState() {
+  localStorage.setItem(LS_KEY, JSON.stringify({
+    starred:   [...state.starred],
+    dismissed: [...state.dismissed],
+    notes:     state.notes,
+    expanded:  [...state.expanded],
+    sortBy:    state.sortBy,
+    sortDir:   state.sortDir
+  }));
+}
+
+function fitClass(s) {
+  if (s >= 80) return "s90";
+  if (s >= 60) return "s70";
+  if (s >= 40) return "s50";
+  if (s >= 20) return "s30";
+  return "s0";
+}
+function closeUrgency(days) {
+  if (days == null) return "normal";
+  if (days < 0) return "closed";
+  if (days <= 7) return "urgent";
+  if (days <= 14) return "soon";
+  return "normal";
+}
+function daysLabel(days) {
+  if (days == null) return "—";
+  if (days < 0) return "closed";
+  if (days === 0) return "today";
+  if (days === 1) return "1 day";
+  return days + " days";
+}
+function closeDateShort(raw) {
+  // "4:30 PM 13 May 2026 (Pacific/Auckland UTC+12:00)" -> "13 May 2026"
+  const m = raw.match(/(\d{1,2}\s+\w+\s+\d{4})/);
+  return m ? m[1] : raw;
+}
+
+function getFilters() {
+  return {
+    status: document.getElementById("filter-status").value,
+    agency: document.getElementById("filter-agency").value.trim().toLowerCase(),
+    title:  document.getElementById("filter-title").value.trim().toLowerCase(),
+    minFit: +document.getElementById("filter-fit").value,
+    openOnly: document.getElementById("filter-open").checked
+  };
+}
+
+function render() {
+  const f = getFilters();
+  const tbody = document.getElementById("tbody");
+  tbody.innerHTML = "";
+
+  let view = ITEMS.filter(it => {
+    if (f.status === "active"    && state.dismissed.has(it.rfxId)) return false;
+    if (f.status === "starred"   && !state.starred.has(it.rfxId))   return false;
+    if (f.status === "new"       && !it.isNew)                       return false;
+    if (f.status === "dismissed" && !state.dismissed.has(it.rfxId)) return false;
+    if (f.agency && !it.organization.toLowerCase().includes(f.agency)) return false;
+    if (f.title  && !it.title.toLowerCase().includes(f.title))         return false;
+    if (it.fitScore < f.minFit) return false;
+    if (f.openOnly && it.daysToClose != null && it.daysToClose < 0) return false;
+    return true;
+  });
+
+  view.sort((a, b) => {
+    const dir = state.sortDir === "asc" ? 1 : -1;
+    const k = state.sortBy;
+    if (k === "title" || k === "organization") return dir * (a[k] > b[k] ? 1 : -1);
+    const av = a[k] ?? (k === "daysToClose" ? 9999 : 0);
+    const bv = b[k] ?? (k === "daysToClose" ? 9999 : 0);
+    return dir * (av - bv);
+  });
+
+  document.getElementById("counts").textContent =
+    `${view.length} shown · ${ITEMS.length} total · ${state.starred.size} starred · ${state.dismissed.size} dismissed`;
+
+  if (view.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="7" class="empty">No tenders match the current filters.</td></tr>';
+    return;
+  }
+
+  for (const it of view) {
+    const tr = document.createElement("tr");
+    if (state.dismissed.has(it.rfxId)) tr.classList.add("dismissed");
+    const urg = closeUrgency(it.daysToClose);
+    const newTag = it.isNew ? '<span class="new-tag">NEW</span>' : '';
+    tr.innerHTML = `
+      <td><span class="star ${state.starred.has(it.rfxId) ? "on" : ""}" data-id="${it.rfxId}">★</span></td>
+      <td><span class="fit ${fitClass(it.fitScore)}">${it.fitScore}</span></td>
+      <td class="close-date ${urg}">${closeDateShort(it.closeDateRaw)}<span class="days">${daysLabel(it.daysToClose)}</span></td>
+      <td class="title-cell" data-id="${it.rfxId}">${newTag}${escapeHtml(it.title)}</td>
+      <td class="agency">${escapeHtml(it.organization)}</td>
+      <td><span class="type-pill" title="${escapeHtml(it.tenderType)}">${escapeHtml(it.tenderTypeCode || it.tenderType)}</span></td>
+      <td class="actions">
+        <button class="btn" data-id="${it.rfxId}" data-act="toggle-expand">${state.expanded.has(it.rfxId) ? "Hide" : "Details"}</button>
+        <button class="btn danger" data-id="${it.rfxId}" data-act="dismiss">${state.dismissed.has(it.rfxId) ? "Restore" : "Dismiss"}</button>
+      </td>`;
+    tbody.appendChild(tr);
+
+    if (state.expanded.has(it.rfxId)) {
+      tr.classList.add("expanded");
+      const er = document.createElement("tr");
+      er.className = "expand-row";
+      const reasonsHtml = it.reasons.length
+        ? it.reasons.map(r => `<li class="${r.kind}">${escapeHtml(r.text)}</li>`).join("")
+        : '<li class="neutral">No keyword signals fired — title is generic; only click-through can tell.</li>';
+      er.innerHTML = `
+        <td colspan="7">
+          <div class="expand-grid">
+            <div>
+              <h4>Why this score</h4>
+              <ul class="reasons">${reasonsHtml}</ul>
+              <div class="meta-line">
+                Ref <span class="ref">${escapeHtml(it.referenceNumber)}</span> ·
+                RFx <span class="ref">${escapeHtml(it.rfxId)}</span> ·
+                Closes ${escapeHtml(it.closeDateRaw)} ·
+                <a href="${it.url}" target="_blank" rel="noopener">Open in GETS ↗</a>
+              </div>
+            </div>
+            <div>
+              <h4>Notes</h4>
+              <textarea class="notes-box" data-id="${it.rfxId}" placeholder="Your notes, follow-ups…">${escapeHtml(state.notes[it.rfxId] || "")}</textarea>
+            </div>
+          </div>
+        </td>`;
+      tbody.appendChild(er);
+    }
+  }
+}
+
+function escapeHtml(s) {
+  return String(s ?? "").replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  })[c]);
+}
+
+document.getElementById("tbody").addEventListener("click", (e) => {
+  const t = e.target;
+  const id = t.dataset.id;
+  if (!id) return;
+
+  if (t.classList.contains("star")) {
+    if (state.starred.has(id)) state.starred.delete(id);
+    else state.starred.add(id);
+    saveState(); render(); return;
+  }
+  if (t.classList.contains("title-cell") || t.dataset.act === "toggle-expand") {
+    if (state.expanded.has(id)) state.expanded.delete(id);
+    else state.expanded.add(id);
+    saveState(); render(); return;
+  }
+  if (t.dataset.act === "dismiss") {
+    if (state.dismissed.has(id)) state.dismissed.delete(id);
+    else state.dismissed.add(id);
+    saveState(); render();
+  }
+});
+
+document.getElementById("tbody").addEventListener("input", (e) => {
+  if (e.target.classList.contains("notes-box")) {
+    state.notes[e.target.dataset.id] = e.target.value;
+    saveState();
+  }
+});
+
+document.querySelectorAll("thead th.sortable").forEach(th => {
+  th.addEventListener("click", () => {
+    const k = th.dataset.sort;
+    if (state.sortBy === k) state.sortDir = state.sortDir === "asc" ? "desc" : "asc";
+    else { state.sortBy = k; state.sortDir = k === "daysToClose" ? "asc" : "desc"; }
+    document.querySelectorAll("thead th .sort-ind").forEach(s => s.textContent = "");
+    th.querySelector(".sort-ind").textContent = state.sortDir === "asc" ? "▲" : "▼";
+    saveState(); render();
+  });
+});
+
+["filter-status","filter-agency","filter-title","filter-fit","filter-open"].forEach(id => {
+  document.getElementById(id).addEventListener("input", () => {
+    if (id === "filter-fit") document.getElementById("filter-fit-val").textContent = document.getElementById("filter-fit").value;
+    render();
+  });
+});
+
+const initTh = document.querySelector(`thead th[data-sort="${state.sortBy}"] .sort-ind`);
+if (initTh) initTh.textContent = state.sortDir === "asc" ? "▲" : "▼";
+
+render();
+</script>
+</body>
+</html>

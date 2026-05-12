@@ -1,0 +1,12 @@
+[project]
+name = "tender-screener"
+version = "0.1.0"
+description = "Daily triage of NZ GETS tender listings for Coreshift HQ"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.27",
+    "jinja2>=3.1",
+]
+
+[tool.setuptools]
+packages = ["screener"]

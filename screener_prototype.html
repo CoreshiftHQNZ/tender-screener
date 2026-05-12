@@ -1,0 +1,580 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Coreshift Tender Screener</title>
+<style>
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-size: 14px;
+  color: #1a1a1a;
+  background: #fafaf8;
+  line-height: 1.45;
+}
+.wrap { max-width: 1280px; margin: 0 auto; padding: 20px 24px 80px; }
+header { display: flex; align-items: baseline; gap: 16px; flex-wrap: wrap; margin-bottom: 4px; }
+h1 { font-size: 20px; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
+.subtitle { font-size: 12px; color: #888; }
+.banner {
+  background: #fff8e6;
+  border: 1px solid #ffe6a0;
+  color: #6b4d00;
+  padding: 10px 14px;
+  border-radius: 6px;
+  font-size: 13px;
+  margin: 12px 0 18px;
+}
+.sample-badge {
+  display: inline-block; font-size: 10px; font-weight: 600; letter-spacing: 0.05em;
+  padding: 1px 5px; background: #fde0cd; color: #803400; border-radius: 3px;
+  margin-right: 5px; vertical-align: middle;
+}
+.sample-badge.real { background: #d6f3dc; color: #126b29; }
+.toolbar {
+  display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+  padding: 10px 12px; background: #fff; border: 1px solid #eaeae3;
+  border-radius: 8px; margin-bottom: 14px;
+}
+.toolbar label { font-size: 12px; color: #555; display: flex; align-items: center; gap: 6px; }
+.toolbar input[type=text], .toolbar select {
+  font-size: 13px; padding: 5px 8px; border: 1px solid #d6d6cf; border-radius: 5px;
+  background: #fff;
+}
+.toolbar input[type=range] { width: 110px; }
+.counts { margin-left: auto; font-size: 12px; color: #777; }
+table { width: 100%; border-collapse: separate; border-spacing: 0; background: #fff;
+  border: 1px solid #eaeae3; border-radius: 8px; overflow: hidden; }
+thead th {
+  font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; color: #777;
+  font-weight: 600; text-align: left; padding: 10px 12px;
+  background: #f6f6f0; border-bottom: 1px solid #eaeae3; cursor: pointer; user-select: none;
+}
+thead th.sortable:hover { background: #efefe7; }
+thead th .sort-ind { color: #bbb; margin-left: 3px; font-size: 10px; }
+tbody td { padding: 10px 12px; border-bottom: 1px solid #f0f0e8; vertical-align: top; }
+tbody tr:last-child td { border-bottom: none; }
+tbody tr.dismissed { opacity: 0.42; }
+tbody tr.expanded > td { background: #fbfaf3; }
+.star { font-size: 16px; cursor: pointer; user-select: none; color: #ccc; }
+.star.on { color: #f5b400; }
+.fit { display: inline-flex; align-items: center; justify-content: center;
+  min-width: 30px; padding: 2px 7px; border-radius: 4px;
+  font-weight: 600; font-size: 12px; font-variant-numeric: tabular-nums; }
+.fit.s90 { background: #d6f3dc; color: #126b29; }
+.fit.s70 { background: #e6f3d6; color: #3d6b12; }
+.fit.s50 { background: #fdf4cd; color: #7a5800; }
+.fit.s30 { background: #fde0cd; color: #803400; }
+.fit.s0  { background: #f0e0e0; color: #6b1212; }
+.close-date { font-variant-numeric: tabular-nums; font-size: 13px; }
+.close-date .days { display: block; font-size: 11px; color: #888; }
+.close-date.urgent .days { color: #b00; font-weight: 600; }
+.close-date.soon .days   { color: #c87800; font-weight: 600; }
+.title-cell { font-weight: 500; cursor: pointer; }
+.title-cell:hover { color: #0a58c2; }
+.agency { font-size: 12px; color: #555; }
+.type-pill {
+  display: inline-block; font-size: 11px; padding: 1px 6px;
+  background: #eef0f2; color: #444; border-radius: 3px;
+}
+.value { font-variant-numeric: tabular-nums; font-size: 13px; color: #333; }
+.actions { display: flex; gap: 4px; }
+.btn {
+  font-size: 11px; padding: 3px 8px; border: 1px solid #d6d6cf;
+  background: #fff; border-radius: 4px; cursor: pointer; color: #444;
+}
+.btn:hover { background: #f3f3ee; }
+.btn.danger:hover { background: #ffeaea; color: #a00; border-color: #f0bbbb; }
+.btn.primary { background: #0a58c2; color: #fff; border-color: #0a58c2; }
+.btn.primary:hover { background: #094aa3; }
+.expand-row td { padding: 14px 18px 16px; background: #fbfaf3; }
+.expand-grid {
+  display: grid; grid-template-columns: minmax(0, 1fr) 320px;
+  gap: 22px;
+}
+.expand-grid h4 { margin: 0 0 6px; font-size: 12px; text-transform: uppercase;
+  letter-spacing: 0.04em; color: #777; font-weight: 600; }
+.reasons { list-style: none; padding: 0; margin: 0; }
+.reasons li { font-size: 13px; padding: 3px 0; }
+.reasons li.plus::before  { content: "+ "; color: #126b29; font-weight: 700; }
+.reasons li.minus::before { content: "− "; color: #a00; font-weight: 700; }
+.reasons li.neutral::before { content: "· "; color: #888; }
+.notes-box { width: 100%; min-height: 70px; padding: 8px; border: 1px solid #d6d6cf;
+  border-radius: 5px; font-family: inherit; font-size: 13px; resize: vertical;
+  background: #fff; }
+.meta-line { font-size: 12px; color: #666; margin-top: 8px; }
+.meta-line a { color: #0a58c2; }
+.empty { text-align: center; padding: 36px; color: #888; font-size: 13px; }
+.legend { font-size: 11px; color: #777; margin-top: 12px; display: flex; gap: 14px; flex-wrap: wrap; }
+.legend span { display: inline-flex; align-items: center; gap: 5px; }
+.swatch { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Tender Screener — Coreshift</h1>
+  <span class="subtitle">NZ GETS · light triage</span>
+  <span class="counts" id="counts"></span>
+</header>
+
+<div class="banner" id="banner">
+  <strong>⚠ Fabricated sample data.</strong> These listings (except the real ACC RFP 104739) do not exist on GETS — they're plausible-shaped placeholders so you can pressure-test the UI and scoring. The "Open in GETS" links will not resolve. Once the rules feel right, we wire this to the live Apify GETS scraper for nightly refresh.
+</div>
+
+<div class="toolbar">
+  <label>Show
+    <select id="filter-status">
+      <option value="active">Active (not dismissed)</option>
+      <option value="starred">Starred only</option>
+      <option value="dismissed">Dismissed only</option>
+      <option value="all">All</option>
+    </select>
+  </label>
+  <label>Agency
+    <input type="text" id="filter-agency" placeholder="any" size="14">
+  </label>
+  <label>Min fit
+    <input type="range" id="filter-fit" min="0" max="100" value="0" step="5">
+    <span id="filter-fit-val" style="min-width:24px;text-align:right;font-variant-numeric:tabular-nums;">0</span>
+  </label>
+  <label>Hide closed
+    <input type="checkbox" id="filter-open" checked>
+  </label>
+</div>
+
+<table id="tender-table">
+  <thead><tr>
+    <th style="width:28px"></th>
+    <th class="sortable" data-sort="fitScore">Fit <span class="sort-ind">▼</span></th>
+    <th class="sortable" data-sort="closeDate">Close <span class="sort-ind"></span></th>
+    <th class="sortable" data-sort="title" style="min-width:280px">Tender <span class="sort-ind"></span></th>
+    <th class="sortable" data-sort="organization">Agency <span class="sort-ind"></span></th>
+    <th>Type</th>
+    <th class="sortable" data-sort="valueSort">Value (NZD) <span class="sort-ind"></span></th>
+    <th></th>
+  </tr></thead>
+  <tbody id="tbody"></tbody>
+</table>
+
+<div class="legend">
+  <span><span class="swatch" style="background:#d6f3dc"></span>Strong fit (≥80)</span>
+  <span><span class="swatch" style="background:#e6f3d6"></span>Worth a read (60–79)</span>
+  <span><span class="swatch" style="background:#fdf4cd"></span>Marginal (40–59)</span>
+  <span><span class="swatch" style="background:#fde0cd"></span>Weak (20–39)</span>
+  <span><span class="swatch" style="background:#f0e0e0"></span>Auto-reject (&lt;20)</span>
+</div>
+
+</div>
+
+<script>
+// ── sample data ──────────────────────────────────────────────────────────────
+// realistic shape of what we'd get from the Apify NZ GETS scraper plus a
+// description excerpt (the live wire-up will fetch this from the GETS listing
+// detail page). fit scoring is then applied client-side.
+
+const SAMPLE = [
+  {
+    rfxId: "104739", referenceNumber: "ACC-BI-2026",
+    title: "Provision of an External Facing BI Reporting Platform",
+    organization: "Accident Compensation Corporation (ACC)",
+    tenderType: "RFP", closeDate: "2026-06-03", status: "Open",
+    contractValueLow: 2000000, contractValueHigh: 5000000,
+    description: "ACC requires a managed cloud-based turn-key reporting platform. Pre-condition: must be a turnkey, vendor-managed SaaS. ACC is not after integration, support or delivery partners.",
+    gets: "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=104739"
+  },
+  {
+    rfxId: "104812", referenceNumber: "DIA-AI-POLICY",
+    title: "AI-Assisted Policy Drafting Prototype",
+    organization: "Department of Internal Affairs",
+    tenderType: "ROI", closeDate: "2026-05-29", status: "Open",
+    contractValueLow: 150000, contractValueHigh: 350000,
+    description: "Seeking a vendor to build a prototype AI tool that supports policy analysts in drafting Cabinet papers and regulatory impact statements. 12 week MVP delivery expected.",
+    gets: "https://www.gets.govt.nz/DIA/ExternalTenderDetails.htm?id=104812"
+  },
+  {
+    rfxId: "104798", referenceNumber: "MOH-REFERRAL",
+    title: "GP Referral Portal — Discovery + MVP",
+    organization: "Health New Zealand | Te Whatu Ora",
+    tenderType: "RFP", closeDate: "2026-06-12", status: "Open",
+    contractValueLow: 400000, contractValueHigh: 900000,
+    description: "Web-based referral portal for general practice. Discovery phase followed by MVP build. Agile delivery, integration with HPI and NHI. Custom development encouraged.",
+    gets: "https://www.gets.govt.nz/TeWhatuOra/ExternalTenderDetails.htm?id=104798"
+  },
+  {
+    rfxId: "104801", referenceNumber: "IRD-PANEL-DIGITAL",
+    title: "Digital Advisory Services Panel — Refresh",
+    organization: "Inland Revenue Department",
+    tenderType: "RFP", closeDate: "2026-06-20", status: "Open",
+    contractValueLow: null, contractValueHigh: null,
+    description: "Establishment of a panel of approved suppliers for digital advisory services. Multi-supplier panel agreement, ITIL-aligned, minimum 3 years' enterprise government experience required.",
+    gets: "https://www.gets.govt.nz/IRD/ExternalTenderDetails.htm?id=104801"
+  },
+  {
+    rfxId: "104755", referenceNumber: "STATS-DATAVIZ",
+    title: "Public-Facing Data Visualisation Microsite",
+    organization: "Stats NZ | Tatauranga Aotearoa",
+    tenderType: "RFP", closeDate: "2026-05-22", status: "Open",
+    contractValueLow: 80000, contractValueHigh: 180000,
+    description: "Build a public-facing interactive data visualisation site for the 2025 Census summary results. Static-site OK, modern frontend frameworks welcomed, accessibility WCAG 2.2 AA.",
+    gets: "https://www.gets.govt.nz/StatsNZ/ExternalTenderDetails.htm?id=104755"
+  },
+  {
+    rfxId: "104780", referenceNumber: "DOC-FIELD",
+    title: "Field Data Capture App — Ranger Workflow",
+    organization: "Department of Conservation",
+    tenderType: "RFP", closeDate: "2026-06-05", status: "Open",
+    contractValueLow: 200000, contractValueHigh: 500000,
+    description: "Mobile-first field data capture app for rangers, offline-first, sync with central data platform. Replacing paper-based workflow. Prototype to production in 6 months.",
+    gets: "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=104780"
+  },
+  {
+    rfxId: "104766", referenceNumber: "MOJ-BACKLOG",
+    title: "Case Backlog Visualisation Tool",
+    organization: "Ministry of Justice",
+    tenderType: "RFP", closeDate: "2026-06-08", status: "Open",
+    contractValueLow: 120000, contractValueHigh: 300000,
+    description: "Internal dashboard for tracking and visualising the District Court case backlog. Live data from MoJ data warehouse. Custom build acceptable.",
+    gets: "https://www.gets.govt.nz/MOJ/ExternalTenderDetails.htm?id=104766"
+  },
+  {
+    rfxId: "104744", referenceNumber: "NZP-CMS-SAAS",
+    title: "Case Management System Replacement",
+    organization: "New Zealand Police",
+    tenderType: "RFP", closeDate: "2026-07-15", status: "Open",
+    contractValueLow: 8000000, contractValueHigh: 25000000,
+    description: "Replacement of the legacy case management system. Vendor must have an existing productised SaaS solution deployed in at least three comparable law enforcement agencies internationally. Top secret security clearance required.",
+    gets: "https://www.gets.govt.nz/NZPolice/ExternalTenderDetails.htm?id=104744"
+  },
+  {
+    rfxId: "104822", referenceNumber: "ERO-DASH",
+    title: "School Performance Dashboard Build",
+    organization: "Education Review Office",
+    tenderType: "RFP", closeDate: "2026-06-15", status: "Open",
+    contractValueLow: 250000, contractValueHigh: 600000,
+    description: "Build a public-facing school performance dashboard. Data sourced from MoE data warehouse. Modern web framework, accessible, embeddable. Agile build, 4 month timeline.",
+    gets: "https://www.gets.govt.nz/ERO/ExternalTenderDetails.htm?id=104822"
+  },
+  {
+    rfxId: "104791", referenceNumber: "TWO-HW",
+    title: "Clinical Workstation Hardware Refresh",
+    organization: "Health New Zealand | Te Whatu Ora",
+    tenderType: "RFT", closeDate: "2026-06-25", status: "Open",
+    contractValueLow: 3000000, contractValueHigh: 6000000,
+    description: "Supply of 4,500 clinical workstations including monitors, peripherals, and on-site rollout. Five-year support agreement.",
+    gets: "https://www.gets.govt.nz/TeWhatuOra/ExternalTenderDetails.htm?id=104791"
+  },
+  {
+    rfxId: "104809", referenceNumber: "WCC-ENGAGE",
+    title: "Resident Engagement Platform — Prototype",
+    organization: "Wellington City Council",
+    tenderType: "ROI", closeDate: "2026-05-30", status: "Open",
+    contractValueLow: 60000, contractValueHigh: 120000,
+    description: "Rapid prototype of a resident engagement web platform for consultation on the long-term plan. 6 week build, agile, modern stack. Funding for prototype phase only with potential to extend.",
+    gets: "https://www.gets.govt.nz/WCC/ExternalTenderDetails.htm?id=104809"
+  },
+  {
+    rfxId: "104774", referenceNumber: "CL-DOC",
+    title: "Secure Document Workflow MVP",
+    organization: "Crown Law Office",
+    tenderType: "RFP", closeDate: "2026-06-18", status: "Open",
+    contractValueLow: 180000, contractValueHigh: 400000,
+    description: "MVP for a secure internal document workflow tool replacing manual email-based review process. Web-based, integrates with existing AD, modern frontend.",
+    gets: "https://www.gets.govt.nz/CrownLaw/ExternalTenderDetails.htm?id=104774"
+  },
+  {
+    rfxId: "104715", referenceNumber: "NZTA-SIGNS",
+    title: "Traffic Sign Supply Contract",
+    organization: "NZ Transport Agency | Waka Kotahi",
+    tenderType: "RFT", closeDate: "2026-06-10", status: "Open",
+    contractValueLow: 1500000, contractValueHigh: 3000000,
+    description: "Manufacture and supply of regulatory and warning traffic signs to NZTA standards. Three year contract with option to extend.",
+    gets: "https://www.gets.govt.nz/NZTA/ExternalTenderDetails.htm?id=104715"
+  },
+  {
+    rfxId: "104830", referenceNumber: "MBIE-AUTO",
+    title: "Compliance Team Internal Automation Tooling",
+    organization: "Ministry of Business, Innovation and Employment",
+    tenderType: "RFP", closeDate: "2026-06-22", status: "Open",
+    contractValueLow: 200000, contractValueHigh: 450000,
+    description: "Internal tooling to automate repetitive compliance review tasks. Integration with Microsoft 365, agile build, expected 3-4 month delivery. AI-assisted classification welcomed.",
+    gets: "https://www.gets.govt.nz/MBIE/ExternalTenderDetails.htm?id=104830"
+  },
+  {
+    rfxId: "104815", referenceNumber: "TPK-IWI",
+    title: "Iwi Data Portal — Discovery",
+    organization: "Te Puni Kōkiri",
+    tenderType: "ROI", closeDate: "2026-06-02", status: "Open",
+    contractValueLow: 80000, contractValueHigh: 150000,
+    description: "Discovery phase for a data portal sharing curated government datasets with iwi. Tikanga-led design, agile, custom build expected after discovery.",
+    gets: "https://www.gets.govt.nz/TPK/ExternalTenderDetails.htm?id=104815"
+  }
+];
+
+// ── scoring rules ────────────────────────────────────────────────────────────
+const RULES = {
+  // strong positives — buying what we sell
+  plus: [
+    { kw: /\b(mvp|prototype|proof of concept|poc|discovery)\b/i, w: 22, why: "Prototype / discovery / MVP framing" },
+    { kw: /\b(custom build|custom development|bespoke|agile)\b/i, w: 15, why: "Custom / agile build language" },
+    { kw: /\b(ai|machine learning|llm|generative)\b/i, w: 18, why: "AI / ML scope" },
+    { kw: /\b(automation|automated|automate)\b/i, w: 12, why: "Automation scope" },
+    { kw: /\b(dashboard|visualisation|visualization|data viz)\b/i, w: 10, why: "Dashboard / data viz" },
+    { kw: /\b(web app|web platform|web-based|portal|microsite)\b/i, w: 10, why: "Web app / portal build" },
+    { kw: /\b(modernisation|modernization|replace.*legacy|legacy.*replace)\b/i, w: 12, why: "Legacy modernisation" },
+    { kw: /\b(internal tool|internal tooling|internal workflow)\b/i, w: 10, why: "Internal tooling build" },
+    { kw: /\b(integration|api|integrate with)\b/i, w: 5, why: "Integration work in scope" }
+  ],
+  // hard negatives — things we are not
+  minus: [
+    { kw: /\b(turnkey|turn-key)\b.*\b(saas|product|solution|platform)\b/i, w: -45, why: "Turnkey SaaS product procurement" },
+    { kw: /\bexisting (productised|product|saas|solution|platform)\b/i, w: -45, why: "Requires existing productised solution" },
+    { kw: /\bvendor[- ]managed (saas|service)\b/i, w: -30, why: "Vendor-managed SaaS required" },
+    { kw: /\bpanel (agreement|of (approved )?suppliers|refresh)\b/i, w: -40, why: "Panel procurement (multi-supplier)" },
+    { kw: /\bsecurity clearance|top secret|secret clearance\b/i, w: -25, why: "Security clearance required" },
+    { kw: /\b(hardware|supply of|manufacture|peripherals|workstation refresh)\b/i, w: -40, why: "Hardware / physical goods" },
+    { kw: /\bmanaged service\b/i, w: -15, why: "Managed-service framing" },
+    { kw: /\bitil\b/i, w: -10, why: "ITIL framing — ops/support contract" },
+    { kw: /\b(iso\/?iec )?27001\b.*\bcertif/i, w: -10, why: "Demands existing ISO 27001 cert" },
+    { kw: /\bdeployed in (at least )?\d+ (comparable )?(international )?(law enforcement |health |government )?agencies?\b/i, w: -35, why: "Reference-customer threshold" }
+  ],
+  // value band scoring — sweet spot is 80k–2M
+  valueScore(low, high) {
+    if (low == null && high == null) return { delta: 0, why: "Value not disclosed" };
+    const mid = (low ?? high) && (high ?? low) ? ((low ?? high) + (high ?? low)) / 2 : (low ?? high);
+    if (mid < 50000)  return { delta: -8, why: "Value likely below our floor (<$50k)" };
+    if (mid <= 250000) return { delta: 8, why: "Value in prototype sweet spot ($50k–$250k)" };
+    if (mid <= 1000000) return { delta: 12, why: "Value in build sweet spot ($250k–$1M)" };
+    if (mid <= 2500000) return { delta: 6, why: "Value workable but large ($1M–$2.5M)" };
+    return { delta: -4, why: "Value very large — incumbent-favoured ($2.5M+)" };
+  }
+};
+
+function score(item) {
+  let s = 50; // baseline
+  const reasons = [];
+  const blob = (item.title + " " + item.description).toLowerCase();
+  for (const r of RULES.plus) {
+    if (r.kw.test(blob)) { s += r.w; reasons.push({ kind: "plus", text: r.why }); }
+  }
+  for (const r of RULES.minus) {
+    if (r.kw.test(blob)) { s += r.w; reasons.push({ kind: "minus", text: r.why }); }
+  }
+  const v = RULES.valueScore(item.contractValueLow, item.contractValueHigh);
+  s += v.delta;
+  reasons.push({ kind: v.delta > 0 ? "plus" : v.delta < 0 ? "minus" : "neutral", text: v.why });
+  s = Math.max(0, Math.min(100, Math.round(s)));
+  return { fitScore: s, reasons };
+}
+
+// ── state (persisted) ────────────────────────────────────────────────────────
+const LS_KEY = "coreshift_tender_screener_v1";
+let state = JSON.parse(localStorage.getItem(LS_KEY) || "{}");
+state.starred  = new Set(state.starred  || []);
+state.dismissed = new Set(state.dismissed || []);
+state.notes    = state.notes || {};
+state.expanded = new Set(state.expanded || []);
+state.sortBy   = state.sortBy || "fitScore";
+state.sortDir  = state.sortDir || "desc";
+
+function saveState() {
+  localStorage.setItem(LS_KEY, JSON.stringify({
+    starred:   [...state.starred],
+    dismissed: [...state.dismissed],
+    notes:     state.notes,
+    expanded:  [...state.expanded],
+    sortBy:    state.sortBy,
+    sortDir:   state.sortDir
+  }));
+}
+
+// ── enrich + render ──────────────────────────────────────────────────────────
+const today = new Date("2026-05-13"); // matches env date
+const items = SAMPLE.map(x => {
+  const sc = score(x);
+  const close = new Date(x.closeDate + "T16:00:00+12:00");
+  const days = Math.ceil((close - today) / 86400000);
+  const valueSort = ((x.contractValueLow ?? 0) + (x.contractValueHigh ?? x.contractValueLow ?? 0)) / 2;
+  return { ...x, fitScore: sc.fitScore, reasons: sc.reasons, daysToClose: days, valueSort };
+});
+
+function fmtNZD(low, high) {
+  if (low == null && high == null) return "—";
+  const f = n => n >= 1e6 ? "$" + (n/1e6).toFixed(1).replace(/\.0$/,"") + "M"
+                          : "$" + Math.round(n/1000) + "k";
+  if (low && high && low !== high) return f(low) + "–" + f(high);
+  return f(low ?? high);
+}
+function fitClass(s) {
+  if (s >= 80) return "s90";
+  if (s >= 60) return "s70";
+  if (s >= 40) return "s50";
+  if (s >= 20) return "s30";
+  return "s0";
+}
+function closeUrgency(days) {
+  if (days < 0) return "closed";
+  if (days <= 7) return "urgent";
+  if (days <= 14) return "soon";
+  return "normal";
+}
+
+function getFilters() {
+  return {
+    status: document.getElementById("filter-status").value,
+    agency: document.getElementById("filter-agency").value.trim().toLowerCase(),
+    minFit: +document.getElementById("filter-fit").value,
+    openOnly: document.getElementById("filter-open").checked
+  };
+}
+
+function render() {
+  const f = getFilters();
+  const tbody = document.getElementById("tbody");
+  tbody.innerHTML = "";
+
+  let view = items.filter(it => {
+    if (f.status === "active"    && state.dismissed.has(it.rfxId)) return false;
+    if (f.status === "starred"   && !state.starred.has(it.rfxId))   return false;
+    if (f.status === "dismissed" && !state.dismissed.has(it.rfxId)) return false;
+    if (f.agency && !it.organization.toLowerCase().includes(f.agency)) return false;
+    if (it.fitScore < f.minFit) return false;
+    if (f.openOnly && it.daysToClose < 0) return false;
+    return true;
+  });
+
+  view.sort((a, b) => {
+    const dir = state.sortDir === "asc" ? 1 : -1;
+    const k = state.sortBy;
+    if (k === "closeDate") return dir * (a.daysToClose - b.daysToClose);
+    if (k === "title" || k === "organization") return dir * (a[k] > b[k] ? 1 : -1);
+    return dir * ((a[k] ?? 0) - (b[k] ?? 0));
+  });
+
+  document.getElementById("counts").textContent =
+    `${view.length} shown · ${items.length} total · ${state.starred.size} starred · ${state.dismissed.size} dismissed`;
+
+  if (view.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="8" class="empty">No tenders match the current filters.</td></tr>';
+    return;
+  }
+
+  for (const it of view) {
+    const tr = document.createElement("tr");
+    if (state.dismissed.has(it.rfxId)) tr.classList.add("dismissed");
+    const urg = closeUrgency(it.daysToClose);
+    const daysLabel = it.daysToClose < 0 ? "closed"
+                    : it.daysToClose === 0 ? "today"
+                    : it.daysToClose === 1 ? "1 day"
+                    : it.daysToClose + " days";
+    tr.innerHTML = `
+      <td><span class="star ${state.starred.has(it.rfxId) ? "on" : ""}" data-id="${it.rfxId}">★</span></td>
+      <td><span class="fit ${fitClass(it.fitScore)}">${it.fitScore}</span></td>
+      <td class="close-date ${urg}">${it.closeDate}<span class="days">${daysLabel}</span></td>
+      <td class="title-cell" data-id="${it.rfxId}">${it.title}</td>
+      <td class="agency">${it.organization}</td>
+      <td><span class="type-pill">${it.tenderType}</span></td>
+      <td class="value">${fmtNZD(it.contractValueLow, it.contractValueHigh)}</td>
+      <td class="actions">
+        <button class="btn" data-id="${it.rfxId}" data-act="toggle-expand">${state.expanded.has(it.rfxId) ? "Hide" : "Details"}</button>
+        <button class="btn danger" data-id="${it.rfxId}" data-act="dismiss">${state.dismissed.has(it.rfxId) ? "Restore" : "Dismiss"}</button>
+      </td>`;
+    tbody.appendChild(tr);
+
+    if (state.expanded.has(it.rfxId)) {
+      tr.classList.add("expanded");
+      const er = document.createElement("tr");
+      er.className = "expand-row";
+      er.innerHTML = `
+        <td colspan="8">
+          <div class="expand-grid">
+            <div>
+              <h4>Description</h4>
+              <p style="margin:0 0 12px;font-size:13px;">${it.description}</p>
+              <h4>Why this score</h4>
+              <ul class="reasons">${it.reasons.map(r => `<li class="${r.kind}">${r.text}</li>`).join("")}</ul>
+              <div class="meta-line">
+                <span class="sample-badge ${it.rfxId === "104739" ? "real" : ""}">${it.rfxId === "104739" ? "REAL" : "SAMPLE"}</span>
+                Ref ${it.referenceNumber} · RFx ${it.rfxId} ·
+                ${it.rfxId === "104739"
+                  ? `<a href="${it.gets}" target="_blank" rel="noopener">Open in GETS ↗</a>`
+                  : `<span style="color:#aaa;">(link is fabricated — sample data)</span>`}
+              </div>
+            </div>
+            <div>
+              <h4>Notes</h4>
+              <textarea class="notes-box" data-id="${it.rfxId}" placeholder="Your notes, follow-ups, who to call…">${(state.notes[it.rfxId] || "").replace(/</g,"&lt;")}</textarea>
+              <button class="btn primary" style="margin-top:8px" data-id="${it.rfxId}" data-act="flag-deepdive">Flag for deep-dive ★</button>
+            </div>
+          </div>
+        </td>`;
+      tbody.appendChild(er);
+    }
+  }
+}
+
+// ── events ───────────────────────────────────────────────────────────────────
+document.getElementById("tbody").addEventListener("click", (e) => {
+  const t = e.target;
+  const id = t.dataset.id;
+  if (!id) return;
+
+  if (t.classList.contains("star")) {
+    if (state.starred.has(id)) state.starred.delete(id);
+    else state.starred.add(id);
+    saveState(); render(); return;
+  }
+  if (t.classList.contains("title-cell") || t.dataset.act === "toggle-expand") {
+    if (state.expanded.has(id)) state.expanded.delete(id);
+    else state.expanded.add(id);
+    saveState(); render(); return;
+  }
+  if (t.dataset.act === "dismiss") {
+    if (state.dismissed.has(id)) state.dismissed.delete(id);
+    else state.dismissed.add(id);
+    saveState(); render(); return;
+  }
+  if (t.dataset.act === "flag-deepdive") {
+    state.starred.add(id);
+    state.notes[id] = (state.notes[id] || "") + (state.notes[id] ? "\n" : "") + "[Flagged for Claude deep-dive — " + new Date().toISOString().slice(0,10) + "]";
+    saveState(); render();
+  }
+});
+
+document.getElementById("tbody").addEventListener("input", (e) => {
+  if (e.target.classList.contains("notes-box")) {
+    state.notes[e.target.dataset.id] = e.target.value;
+    saveState();
+  }
+});
+
+document.querySelectorAll("thead th.sortable").forEach(th => {
+  th.addEventListener("click", () => {
+    const k = th.dataset.sort;
+    if (state.sortBy === k) state.sortDir = state.sortDir === "asc" ? "desc" : "asc";
+    else { state.sortBy = k; state.sortDir = k === "closeDate" ? "asc" : "desc"; }
+    document.querySelectorAll("thead th .sort-ind").forEach(s => s.textContent = "");
+    th.querySelector(".sort-ind").textContent = state.sortDir === "asc" ? "▲" : "▼";
+    saveState(); render();
+  });
+});
+
+["filter-status","filter-agency","filter-fit","filter-open"].forEach(id => {
+  document.getElementById(id).addEventListener("input", () => {
+    if (id === "filter-fit") document.getElementById("filter-fit-val").textContent = document.getElementById("filter-fit").value;
+    render();
+  });
+});
+
+// initial sort indicator
+const initTh = document.querySelector(`thead th[data-sort="${state.sortBy}"] .sort-ind`);
+if (initTh) initTh.textContent = state.sortDir === "asc" ? "▲" : "▼";
+
+render();
+</script>
+</body>
+</html>

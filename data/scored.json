@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T11:02:49+12:00",
+  "generatedAt": "2026-05-13T11:05:33+12:00",
   "items": [
     {
       "rfxId": "33867946",
@@ -14,7 +14,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/LINZ/ExternalTenderDetails.htm?id=33867946",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:01.743Z",
+      "scrapedAt": "2026-05-12T23:05:32.517Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -32,7 +32,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/TWA/ExternalTenderDetails.htm?id=33877490",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:01.824Z",
+      "scrapedAt": "2026-05-12T23:05:32.568Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -50,7 +50,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=33979869",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:01.852Z",
+      "scrapedAt": "2026-05-12T23:05:32.602Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -68,7 +68,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33882311",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:01.888Z",
+      "scrapedAt": "2026-05-12T23:05:32.634Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -86,7 +86,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/UC/ExternalTenderDetails.htm?id=33909704",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:01.926Z",
+      "scrapedAt": "2026-05-12T23:05:32.661Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -104,7 +104,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/HASDC/ExternalTenderDetails.htm?id=33915429",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:01.956Z",
+      "scrapedAt": "2026-05-12T23:05:32.744Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -122,7 +122,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/WHADC/ExternalTenderDetails.htm?id=33931856",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:01.986Z",
+      "scrapedAt": "2026-05-12T23:05:32.769Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -140,7 +140,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/AC/ExternalTenderDetails.htm?id=33933852",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.037Z",
+      "scrapedAt": "2026-05-12T23:05:32.820Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -158,7 +158,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=33863491",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.062Z",
+      "scrapedAt": "2026-05-12T23:05:32.855Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -176,7 +176,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=33863292",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.095Z",
+      "scrapedAt": "2026-05-12T23:05:32.877Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -194,7 +194,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=33889802",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.125Z",
+      "scrapedAt": "2026-05-12T23:05:32.929Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -212,7 +212,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/AT/ExternalTenderDetails.htm?id=34043196",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.151Z",
+      "scrapedAt": "2026-05-12T23:05:32.953Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -230,7 +230,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/KAIPDC/ExternalTenderDetails.htm?id=33884041",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.178Z",
+      "scrapedAt": "2026-05-12T23:05:32.979Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -248,7 +248,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/IRD/ExternalTenderDetails.htm?id=33858522",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.205Z",
+      "scrapedAt": "2026-05-12T23:05:33.009Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -266,7 +266,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33828967",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.237Z",
+      "scrapedAt": "2026-05-12T23:05:33.033Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -284,7 +284,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33832366",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.269Z",
+      "scrapedAt": "2026-05-12T23:05:33.058Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -302,7 +302,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33893619",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.294Z",
+      "scrapedAt": "2026-05-12T23:05:33.081Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -320,7 +320,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33954143",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.330Z",
+      "scrapedAt": "2026-05-12T23:05:33.111Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -338,7 +338,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/NZCS/ExternalTenderDetails.htm?id=33829535",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.344Z",
+      "scrapedAt": "2026-05-12T23:05:33.133Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -356,7 +356,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33818182",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.374Z",
+      "scrapedAt": "2026-05-12T23:05:33.160Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -374,7 +374,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33899614",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.387Z",
+      "scrapedAt": "2026-05-12T23:05:33.190Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -392,7 +392,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/WCC/ExternalTenderDetails.htm?id=33895253",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.406Z",
+      "scrapedAt": "2026-05-12T23:05:33.212Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -410,7 +410,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/UA/ExternalTenderDetails.htm?id=33919418",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.435Z",
+      "scrapedAt": "2026-05-12T23:05:33.236Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -428,7 +428,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/WAIRDC/ExternalTenderDetails.htm?id=33918584",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.512Z",
+      "scrapedAt": "2026-05-12T23:05:33.260Z",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -446,7 +446,7 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/WARC/ExternalTenderDetails.htm?id=33796371",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T22:58:02.009Z",
+      "scrapedAt": "2026-05-12T23:05:32.796Z",
       "fitScore": 10,
       "reasons": [
         {

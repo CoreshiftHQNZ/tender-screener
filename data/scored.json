@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T11:11:48+12:00",
+  "generatedAt": "2026-05-14T08:04:27+12:00",
   "items": [
     {
       "rfxId": "33969925",
@@ -10,11 +10,11 @@
       "organization": "Kāinga Ora – Homes and Communities",
       "closeDateRaw": "3:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T15:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/HNZC/ExternalTenderDetails.htm?id=33969925",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 62,
       "reasons": [
         {
@@ -22,7 +22,7 @@
           "text": "Legacy modernisation"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33968867",
@@ -33,11 +33,11 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T17:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33968867",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 62,
       "reasons": [
         {
@@ -45,7 +45,7 @@
           "text": "Legacy modernisation"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33870212",
@@ -56,11 +56,11 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "12:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T12:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33870212",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 55,
       "reasons": [
         {
@@ -68,330 +68,6 @@
           "text": "Integration work in scope"
         }
       ],
-      "isNew": true
-    },
-    {
-      "rfxId": "33867946",
-      "referenceNumber": "2026-07",
-      "title": "2026-07 - Building Outlines Capture",
-      "tenderType": "Request for Proposals",
-      "tenderTypeCode": "RFP",
-      "organization": "Land Information New Zealand",
-      "closeDateRaw": "12:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T12:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/LINZ/ExternalTenderDetails.htm?id=33867946",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33877490",
-      "referenceNumber": "[None]",
-      "title": "Catering Services for Tāmaki Makaurau Region",
-      "tenderType": "Request for Proposals",
-      "tenderTypeCode": "RFP",
-      "organization": "Te Wānanga o Aotearoa",
-      "closeDateRaw": "12:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T12:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/TWA/ExternalTenderDetails.htm?id=33877490",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33979869",
-      "referenceNumber": "[None]",
-      "title": "Request for Proposal Phase 1 - Marsden Point Rail Link Programme",
-      "tenderType": "Request for Proposals",
-      "tenderTypeCode": "RFP",
-      "organization": "KiwiRail Group",
-      "closeDateRaw": "12:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T12:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=33979869",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33882311",
-      "referenceNumber": "TMT017-2526-M",
-      "title": "Suicide Prevention Postvention Coordination Service - Western BoP",
-      "tenderType": "Request for Proposals",
-      "tenderTypeCode": "RFP",
-      "organization": "Health New Zealand (Te Whatu Ora)",
-      "closeDateRaw": "12:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T12:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33882311",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33909704",
-      "referenceNumber": "26-034",
-      "title": "Commercial Kitchen Hood Servicing",
-      "tenderType": "Request for Proposals",
-      "tenderTypeCode": "RFP",
-      "organization": "University of Canterbury",
-      "closeDateRaw": "2:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T14:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/UC/ExternalTenderDetails.htm?id=33909704",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33915429",
-      "referenceNumber": "P2026-725",
-      "title": "P2026-725 Wastewater Growth Programme - Waipatu Trunk Main - Construction",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "Hastings District Council",
-      "closeDateRaw": "3:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T15:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/HASDC/ExternalTenderDetails.htm?id=33915429",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33931856",
-      "referenceNumber": "CON26012",
-      "title": "Poroti Water Treatment plant - Upgrade",
-      "tenderType": "Registration of Interest",
-      "tenderTypeCode": "ROI",
-      "organization": "Whangarei District Council",
-      "closeDateRaw": "3:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T15:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/WHADC/ExternalTenderDetails.htm?id=33931856",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33933852",
-      "referenceNumber": "[None]",
-      "title": "REOI for ACG Technical Services Supplier Selection T4 –  Contaminated Land",
-      "tenderType": "Registration of Interest",
-      "tenderTypeCode": "ROI",
-      "organization": "Auckland Council",
-      "closeDateRaw": "4:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T16:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/AC/ExternalTenderDetails.htm?id=33933852",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33863491",
-      "referenceNumber": "C26/01",
-      "title": "South Taranaki District Council Bridge and Structures Professional Services",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "South Taranaki District Council",
-      "closeDateRaw": "4:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T16:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=33863491",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33863292",
-      "referenceNumber": "C26/02",
-      "title": "South Taranaki District Council Resealing 2026 to 2029",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "South Taranaki District Council",
-      "closeDateRaw": "4:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T16:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=33863292",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33889802",
-      "referenceNumber": "21097",
-      "title": "Portable Photosynthesis Meter",
-      "tenderType": "Request for Proposals",
-      "tenderTypeCode": "RFP",
-      "organization": "New Zealand Institute for Bioeconomy Science Limited",
-      "closeDateRaw": "4:30 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T16:30:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=33889802",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "34043196",
-      "referenceNumber": "746-26-835-PS",
-      "title": "746-26-835-PS Airport to Botany Stage 2 Optioneering/Scheme Design Services",
-      "tenderType": "Notice of Information (Advance Notice)",
-      "tenderTypeCode": "NOI",
-      "organization": "Auckland Transport",
-      "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T17:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/AT/ExternalTenderDetails.htm?id=34043196",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33884041",
-      "referenceNumber": "[None]",
-      "title": "CON1164 General Bridge Repairs - Bridge Concrete Repairs and Ancillary Works - Package 2",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "Kaipara District Council",
-      "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T17:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/KAIPDC/ExternalTenderDetails.htm?id=33884041",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33858522",
-      "referenceNumber": "EMS-001",
-      "title": "Energy Management Services",
-      "tenderType": "Request for Proposals",
-      "tenderTypeCode": "RFP",
-      "organization": "Inland Revenue Department",
-      "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T17:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/IRD/ExternalTenderDetails.htm?id=33858522",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33828967",
-      "referenceNumber": "251606",
-      "title": "Main Building Contractor for North East Valley School- 1: Mould Remediation",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "Ministry of Education - School Infrastructure",
-      "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T17:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33828967",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33832366",
-      "referenceNumber": "3115.05",
-      "title": "Main Building Contractor for the Roofing Repairs & Classroom Upgrade at Bell Block Primary School",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "Ministry of Education - School Infrastructure",
-      "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T17:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33832366",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33893619",
-      "referenceNumber": "6141",
-      "title": "RFT - Main Building Contractor for AMS/LSC combined Blocks 1, 2, 4 - Windows, Classrooms, Hall Kitchen, LSC Office at Cannons Creek School, Porirua",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "Ministry of Education - School Infrastructure",
-      "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T17:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33893619",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": false
-    },
-    {
-      "rfxId": "33954143",
-      "referenceNumber": "255652",
-      "title": "ROI for Main Contractor for V: Reclad & Asbestos Removal at Mahurangi College",
-      "tenderType": "Registration of Interest",
-      "tenderTypeCode": "ROI",
-      "organization": "Ministry of Education - School Infrastructure",
-      "closeDateRaw": "5:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T17:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33954143",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 50,
-      "reasons": [],
       "isNew": false
     },
     {
@@ -403,11 +79,11 @@
       "organization": "New Zealand Customs Service",
       "closeDateRaw": "12:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T12:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZCS/ExternalTenderDetails.htm?id=33829535",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -421,11 +97,11 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "12:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T12:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33818182",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -439,11 +115,11 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "12:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T12:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33899614",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -457,11 +133,11 @@
       "organization": "Wellington City Council",
       "closeDateRaw": "12:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T12:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/WCC/ExternalTenderDetails.htm?id=33895253",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -475,11 +151,11 @@
       "organization": "University of Auckland",
       "closeDateRaw": "1:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T13:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/UA/ExternalTenderDetails.htm?id=33919418",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -493,11 +169,11 @@
       "organization": "Wairoa District Council",
       "closeDateRaw": "1:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T13:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/WAIRDC/ExternalTenderDetails.htm?id=33918584",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": false
@@ -511,14 +187,14 @@
       "organization": "Palmerston North City Council",
       "closeDateRaw": "2:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T14:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/PNCC/ExternalTenderDetails.htm?id=33916262",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33935712",
@@ -529,14 +205,14 @@
       "organization": "Auckland Council",
       "closeDateRaw": "4:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T16:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/AC/ExternalTenderDetails.htm?id=33935712",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33913372",
@@ -547,14 +223,14 @@
       "organization": "Porirua City Council",
       "closeDateRaw": "4:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T16:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/PCC/ExternalTenderDetails.htm?id=33913372",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33833949",
@@ -565,14 +241,14 @@
       "organization": "Environment Canterbury",
       "closeDateRaw": "5:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T17:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=33833949",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34013109",
@@ -583,14 +259,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T17:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34013109",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33907736",
@@ -601,14 +277,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 14 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-14T17:00:00+12:00",
-      "daysToClose": 2,
+      "daysToClose": 1,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33907736",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33961518",
@@ -619,14 +295,14 @@
       "organization": "Auckland Transport",
       "closeDateRaw": "12:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T12:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/AT/ExternalTenderDetails.htm?id=33961518",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33882891",
@@ -637,14 +313,14 @@
       "organization": "Airways Corporation New Zealand",
       "closeDateRaw": "12:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T12:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACNZ/ExternalTenderDetails.htm?id=33882891",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33931798",
@@ -655,14 +331,14 @@
       "organization": "Auckland Transport",
       "closeDateRaw": "12:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T12:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/AT/ExternalTenderDetails.htm?id=33931798",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33942286",
@@ -673,14 +349,14 @@
       "organization": "Queenstown-Lakes District Council",
       "closeDateRaw": "12:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T12:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=33942286",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33936283",
@@ -691,14 +367,14 @@
       "organization": "Waitomo District Council",
       "closeDateRaw": "2:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T14:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/WDC07/ExternalTenderDetails.htm?id=33936283",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33881324",
@@ -709,14 +385,14 @@
       "organization": "Palmerston North City Council",
       "closeDateRaw": "3:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T15:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/PNCC/ExternalTenderDetails.htm?id=33881324",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34008248",
@@ -727,14 +403,14 @@
       "organization": "Hawke's Bay Regional Council",
       "closeDateRaw": "4:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T16:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/HBRC/ExternalTenderDetails.htm?id=34008248",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33889081",
@@ -745,14 +421,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "4:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T16:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33889081",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33889178",
@@ -763,14 +439,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "4:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T16:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33889178",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33914933",
@@ -781,14 +457,14 @@
       "organization": "New Zealand Transport Agency (Waka Kotahi) - HISTORIC",
       "closeDateRaw": "4:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T16:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=33914933",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33882042",
@@ -799,14 +475,14 @@
       "organization": "Selwyn District Council",
       "closeDateRaw": "5:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T17:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/SDC/ExternalTenderDetails.htm?id=33882042",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33743692",
@@ -817,14 +493,14 @@
       "organization": "Energy Efficiency & Conservation Authority",
       "closeDateRaw": "5:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T17:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=33743692",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33927562",
@@ -835,14 +511,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T17:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=33927562",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33906133",
@@ -853,14 +529,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T17:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33906133",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33918259",
@@ -871,14 +547,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T17:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33918259",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33909251",
@@ -889,14 +565,14 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "5:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T17:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=33909251",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33797879",
@@ -907,14 +583,14 @@
       "organization": "Electricity Authority",
       "closeDateRaw": "5:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T17:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/EA/ExternalTenderDetails.htm?id=33797879",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33749619",
@@ -925,14 +601,14 @@
       "organization": "Energy Efficiency & Conservation Authority",
       "closeDateRaw": "5:00 PM 15 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-15T17:00:00+12:00",
-      "daysToClose": 3,
+      "daysToClose": 2,
       "status": "open",
       "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=33749619",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33884546",
@@ -943,14 +619,14 @@
       "organization": "Westland District Council",
       "closeDateRaw": "12:00 PM 18 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-18T12:00:00+12:00",
-      "daysToClose": 6,
+      "daysToClose": 5,
       "status": "open",
       "url": "https://www.gets.govt.nz/WDC/ExternalTenderDetails.htm?id=33884546",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34023458",
@@ -961,14 +637,14 @@
       "organization": "New Zealand Qualifications Authority",
       "closeDateRaw": "12:00 PM 18 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-18T12:00:00+12:00",
-      "daysToClose": 6,
+      "daysToClose": 5,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZQA/ExternalTenderDetails.htm?id=34023458",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33971581",
@@ -979,14 +655,14 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "4:00 PM 18 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-18T16:00:00+12:00",
-      "daysToClose": 6,
+      "daysToClose": 5,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33971581",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33927139",
@@ -997,14 +673,14 @@
       "organization": "Transpower New Zealand Limited",
       "closeDateRaw": "5:00 PM 18 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-18T17:00:00+12:00",
-      "daysToClose": 6,
+      "daysToClose": 5,
       "status": "open",
       "url": "https://www.gets.govt.nz/TNZ/ExternalTenderDetails.htm?id=33927139",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33863732",
@@ -1015,14 +691,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 18 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-18T17:00:00+12:00",
-      "daysToClose": 6,
+      "daysToClose": 5,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33863732",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34076797",
@@ -1033,14 +709,14 @@
       "organization": "Aurora Energy",
       "closeDateRaw": "5:00 PM 18 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-18T17:00:00+12:00",
-      "daysToClose": 6,
+      "daysToClose": 5,
       "status": "open",
       "url": "https://www.gets.govt.nz/AURORA/ExternalTenderDetails.htm?id=34076797",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33936384",
@@ -1051,14 +727,14 @@
       "organization": "Waitomo District Council",
       "closeDateRaw": "5:00 PM 18 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-18T17:00:00+12:00",
-      "daysToClose": 6,
+      "daysToClose": 5,
       "status": "open",
       "url": "https://www.gets.govt.nz/WDC07/ExternalTenderDetails.htm?id=33936384",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33926490",
@@ -1069,14 +745,14 @@
       "organization": "New Plymouth District Council",
       "closeDateRaw": "12:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T12:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=33926490",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33882872",
@@ -1087,14 +763,14 @@
       "organization": "Opotiki District Council",
       "closeDateRaw": "12:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T12:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/ODC/ExternalTenderDetails.htm?id=33882872",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33945275",
@@ -1105,14 +781,14 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "12:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T12:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33945275",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33939486",
@@ -1123,14 +799,14 @@
       "organization": "Invercargill City Council",
       "closeDateRaw": "4:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T16:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/ICC/ExternalTenderDetails.htm?id=33939486",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33959799",
@@ -1141,14 +817,14 @@
       "organization": "Whanganui District Council",
       "closeDateRaw": "4:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T16:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/WHANDC/ExternalTenderDetails.htm?id=33959799",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33977965",
@@ -1159,14 +835,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T17:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33977965",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33923198",
@@ -1177,14 +853,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T17:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33923198",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33995407",
@@ -1195,14 +871,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T17:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33995407",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33939381",
@@ -1213,14 +889,14 @@
       "organization": "Victoria University of Wellington",
       "closeDateRaw": "5:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T17:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/VU/ExternalTenderDetails.htm?id=33939381",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33995584",
@@ -1231,14 +907,14 @@
       "organization": "Ministry of Foreign Affairs and Trade",
       "closeDateRaw": "5:00 PM 19 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-19T17:00:00+12:00",
-      "daysToClose": 7,
+      "daysToClose": 6,
       "status": "open",
       "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=33995584",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33873337",
@@ -1253,10 +929,10 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/WSL/ExternalTenderDetails.htm?id=33873337",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33930699",
@@ -1267,14 +943,14 @@
       "organization": "Waikato District Council",
       "closeDateRaw": "12:00 PM 20 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-20T12:00:00+12:00",
-      "daysToClose": 8,
+      "daysToClose": 7,
       "status": "open",
       "url": "https://www.gets.govt.nz/WaikDC/ExternalTenderDetails.htm?id=33930699",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33991737",
@@ -1285,14 +961,14 @@
       "organization": "Manawatu District Council",
       "closeDateRaw": "12:00 PM 20 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-20T12:00:00+12:00",
-      "daysToClose": 8,
+      "daysToClose": 7,
       "status": "open",
       "url": "https://www.gets.govt.nz/MDC/ExternalTenderDetails.htm?id=33991737",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33950114",
@@ -1303,14 +979,14 @@
       "organization": "Invercargill City Council",
       "closeDateRaw": "4:00 PM 20 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-20T16:00:00+12:00",
-      "daysToClose": 8,
+      "daysToClose": 7,
       "status": "open",
       "url": "https://www.gets.govt.nz/ICC/ExternalTenderDetails.htm?id=33950114",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33815690",
@@ -1321,14 +997,14 @@
       "organization": "New Zealand Police",
       "closeDateRaw": "5:00 PM 20 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-20T17:00:00+12:00",
-      "daysToClose": 8,
+      "daysToClose": 7,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZP/ExternalTenderDetails.htm?id=33815690",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33945107",
@@ -1339,14 +1015,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 20 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-20T17:00:00+12:00",
-      "daysToClose": 8,
+      "daysToClose": 7,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33945107",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33930133",
@@ -1357,14 +1033,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 20 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-20T17:00:00+12:00",
-      "daysToClose": 8,
+      "daysToClose": 7,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33930133",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33945420",
@@ -1375,14 +1051,14 @@
       "organization": "Hutt City Council",
       "closeDateRaw": "5:00 PM 20 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-20T17:00:00+12:00",
-      "daysToClose": 8,
+      "daysToClose": 7,
       "status": "open",
       "url": "https://www.gets.govt.nz/HCC/ExternalTenderDetails.htm?id=33945420",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33971418",
@@ -1393,14 +1069,14 @@
       "organization": "University of Otago",
       "closeDateRaw": "2:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T14:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/UO/ExternalTenderDetails.htm?id=33971418",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33978395",
@@ -1411,14 +1087,14 @@
       "organization": "Hamilton City Council",
       "closeDateRaw": "2:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T14:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/HamCC/ExternalTenderDetails.htm?id=33978395",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34000591",
@@ -1429,14 +1105,14 @@
       "organization": "Hurunui District Council",
       "closeDateRaw": "2:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T14:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/HURDC/ExternalTenderDetails.htm?id=34000591",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33975029",
@@ -1447,14 +1123,14 @@
       "organization": "Central Otago District Council",
       "closeDateRaw": "4:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T16:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/CODC/ExternalTenderDetails.htm?id=33975029",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33921966",
@@ -1465,14 +1141,14 @@
       "organization": "Dunedin City Council",
       "closeDateRaw": "4:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T16:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/DCC/ExternalTenderDetails.htm?id=33921966",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34072700",
@@ -1483,14 +1159,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T17:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34072700",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33976395",
@@ -1501,14 +1177,14 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "5:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T17:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=33976395",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33952206",
@@ -1519,14 +1195,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T17:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33952206",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33958353",
@@ -1537,14 +1213,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T17:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33958353",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33963264",
@@ -1555,14 +1231,14 @@
       "organization": "Environment Canterbury",
       "closeDateRaw": "5:00 PM 21 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-21T17:00:00+12:00",
-      "daysToClose": 9,
+      "daysToClose": 8,
       "status": "open",
       "url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=33963264",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34020057",
@@ -1577,10 +1253,10 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/AT/ExternalTenderDetails.htm?id=34020057",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33202118",
@@ -1591,14 +1267,14 @@
       "organization": "Christchurch City Council",
       "closeDateRaw": "12:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T12:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=33202118",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33975820",
@@ -1609,14 +1285,14 @@
       "organization": "Invercargill City Council",
       "closeDateRaw": "2:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T14:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/ICC/ExternalTenderDetails.htm?id=33975820",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33959843",
@@ -1627,14 +1303,14 @@
       "organization": "Far North District Council",
       "closeDateRaw": "3:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T15:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/fndc/ExternalTenderDetails.htm?id=33959843",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33787488",
@@ -1645,14 +1321,14 @@
       "organization": "Wairoa District Council",
       "closeDateRaw": "4:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T16:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/WAIRDC/ExternalTenderDetails.htm?id=33787488",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33961386",
@@ -1663,14 +1339,14 @@
       "organization": "New Zealand Transport Agency (Waka Kotahi) - HISTORIC",
       "closeDateRaw": "4:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T16:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=33961386",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33867729",
@@ -1681,14 +1357,14 @@
       "organization": "Taranaki Regional Council",
       "closeDateRaw": "4:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T16:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/TRC/ExternalTenderDetails.htm?id=33867729",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33820813",
@@ -1699,14 +1375,14 @@
       "organization": "Wairoa District Council",
       "closeDateRaw": "4:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T16:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/WAIRDC/ExternalTenderDetails.htm?id=33820813",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33952790",
@@ -1717,14 +1393,14 @@
       "organization": "Whanganui District Council",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/WHANDC/ExternalTenderDetails.htm?id=33952790",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33952849",
@@ -1735,14 +1411,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33952849",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33879071",
@@ -1753,14 +1429,14 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33879071",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33718549",
@@ -1771,14 +1447,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33718549",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33960067",
@@ -1789,14 +1465,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33960067",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33958893",
@@ -1807,14 +1483,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33958893",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34033320",
@@ -1825,14 +1501,14 @@
       "organization": "New Zealand Defence Force",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=34033320",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33876664",
@@ -1843,14 +1519,14 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=33876664",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33842329",
@@ -1861,14 +1537,14 @@
       "organization": "New Zealand Blood Service",
       "closeDateRaw": "5:00 PM 22 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-22T17:00:00+12:00",
-      "daysToClose": 10,
+      "daysToClose": 9,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZBS/ExternalTenderDetails.htm?id=33842329",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34033788",
@@ -1879,14 +1555,14 @@
       "organization": "New Zealand Transport Agency (Waka Kotahi) - HISTORIC",
       "closeDateRaw": "12:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T12:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34033788",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33962140",
@@ -1897,14 +1573,14 @@
       "organization": "New Plymouth District Council",
       "closeDateRaw": "12:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T12:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=33962140",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33905954",
@@ -1915,14 +1591,14 @@
       "organization": "Department of Conservation",
       "closeDateRaw": "12:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T12:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=33905954",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33935705",
@@ -1933,14 +1609,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "4:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T16:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33935705",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33933987",
@@ -1951,11 +1627,29 @@
       "organization": "Dunedin City Council",
       "closeDateRaw": "4:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T16:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/DCC/ExternalTenderDetails.htm?id=33933987",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
+    },
+    {
+      "rfxId": "34073804",
+      "referenceNumber": "2026-005",
+      "title": "Airfield Power and Lighting",
+      "tenderType": "Registration of Interest",
+      "tenderTypeCode": "ROI",
+      "organization": "Christchurch International Airport Ltd.",
+      "closeDateRaw": "5:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-05-25T17:00:00+12:00",
+      "daysToClose": 12,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/CIA/ExternalTenderDetails.htm?id=34073804",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": true
@@ -1969,14 +1663,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T17:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33964097",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33944899",
@@ -1987,14 +1681,14 @@
       "organization": "KiwiRail Group",
       "closeDateRaw": "5:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T17:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=33944899",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33940018",
@@ -2005,14 +1699,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T17:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33940018",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33939761",
@@ -2023,14 +1717,14 @@
       "organization": "Hamilton City Council",
       "closeDateRaw": "5:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T17:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/HamCC/ExternalTenderDetails.htm?id=33939761",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33989366",
@@ -2041,14 +1735,14 @@
       "organization": "Te Pae Christchurch",
       "closeDateRaw": "6:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T18:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/TEPAE/ExternalTenderDetails.htm?id=33989366",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33651097",
@@ -2063,10 +1757,10 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/NZPL/ExternalTenderDetails.htm?id=33651097",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34043681",
@@ -2081,10 +1775,10 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/UC/ExternalTenderDetails.htm?id=34043681",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33990097",
@@ -2095,14 +1789,14 @@
       "organization": "Tauranga City Council",
       "closeDateRaw": "2:00 PM 26 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-26T14:00:00+12:00",
-      "daysToClose": 14,
+      "daysToClose": 13,
       "status": "open",
       "url": "https://www.gets.govt.nz/TCC/ExternalTenderDetails.htm?id=33990097",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34034372",
@@ -2113,14 +1807,14 @@
       "organization": "Land Information New Zealand",
       "closeDateRaw": "3:00 PM 26 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-26T15:00:00+12:00",
-      "daysToClose": 14,
+      "daysToClose": 13,
       "status": "open",
       "url": "https://www.gets.govt.nz/LINZ/ExternalTenderDetails.htm?id=34034372",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33975836",
@@ -2131,14 +1825,14 @@
       "organization": "New Zealand Transport Agency (Waka Kotahi) - HISTORIC",
       "closeDateRaw": "4:00 PM 26 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-26T16:00:00+12:00",
-      "daysToClose": 14,
+      "daysToClose": 13,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=33975836",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33979098",
@@ -2149,14 +1843,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 26 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-26T17:00:00+12:00",
-      "daysToClose": 14,
+      "daysToClose": 13,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33979098",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33992595",
@@ -2167,14 +1861,14 @@
       "organization": "Department of Conservation",
       "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=33992595",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33975129",
@@ -2185,14 +1879,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=33975129",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34039168",
@@ -2203,14 +1897,14 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34039168",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34011929",
@@ -2221,32 +1915,14 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34011929",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
-    },
-    {
-      "rfxId": "33885951",
-      "referenceNumber": "2026/RO/02",
-      "title": "Gore District Council Road Marking",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "Gore District Council",
-      "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/GRDC/ExternalTenderDetails.htm?id=33885951",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34041350",
@@ -2257,14 +1933,14 @@
       "organization": "Christchurch City Council",
       "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=34041350",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33950263",
@@ -2275,14 +1951,14 @@
       "organization": "Department of Conservation",
       "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=33950263",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34028440",
@@ -2293,32 +1969,14 @@
       "organization": "Kāinga Ora – Homes and Communities",
       "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/HNZC/ExternalTenderDetails.htm?id=34028440",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
-    },
-    {
-      "rfxId": "33909146",
-      "referenceNumber": "Contract ID 2026/RO/03",
-      "title": "URBAN CONCRETE 2026 to 2036",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "Gore District Council",
-      "closeDateRaw": "12:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-27T12:00:00+12:00",
-      "daysToClose": 15,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/GRDC/ExternalTenderDetails.htm?id=33909146",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33917195",
@@ -2329,14 +1987,14 @@
       "organization": "Hastings District Council",
       "closeDateRaw": "3:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T15:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/HASDC/ExternalTenderDetails.htm?id=33917195",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33941628",
@@ -2347,14 +2005,14 @@
       "organization": "Hastings District Council",
       "closeDateRaw": "3:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T15:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/HASDC/ExternalTenderDetails.htm?id=33941628",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33966229",
@@ -2365,14 +2023,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T17:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33966229",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33992232",
@@ -2383,14 +2041,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T17:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33992232",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33733692",
@@ -2401,14 +2059,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T17:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=33733692",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34045145",
@@ -2419,14 +2077,14 @@
       "organization": "New Zealand Police",
       "closeDateRaw": "5:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T17:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZP/ExternalTenderDetails.htm?id=34045145",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34049157",
@@ -2437,14 +2095,14 @@
       "organization": "Department of Internal Affairs",
       "closeDateRaw": "5:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T17:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/DIA/ExternalTenderDetails.htm?id=34049157",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33950378",
@@ -2455,14 +2113,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 27 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-27T17:00:00+12:00",
-      "daysToClose": 15,
+      "daysToClose": 14,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33950378",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33995316",
@@ -2477,10 +2135,10 @@
       "status": "open",
       "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=33995316",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34017567",
@@ -2491,11 +2149,29 @@
       "organization": "New Plymouth District Council",
       "closeDateRaw": "12:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-28T12:00:00+12:00",
-      "daysToClose": 16,
+      "daysToClose": 15,
       "status": "open",
       "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34017567",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
+    },
+    {
+      "rfxId": "33737941",
+      "referenceNumber": "TRLC0349-ROI-203",
+      "title": "Demolition, Asbestos removal and land remediation services",
+      "tenderType": "Registration of Interest",
+      "tenderTypeCode": "ROI",
+      "organization": "Tamaki Redevelopment Company",
+      "closeDateRaw": "1:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-05-28T13:00:00+12:00",
+      "daysToClose": 15,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/TRDC/ExternalTenderDetails.htm?id=33737941",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": true
@@ -2509,14 +2185,14 @@
       "organization": "New Zealand Defence Force",
       "closeDateRaw": "2:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-28T14:00:00+12:00",
-      "daysToClose": 16,
+      "daysToClose": 15,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=33864496",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33935206",
@@ -2527,14 +2203,14 @@
       "organization": "Dunedin City Council",
       "closeDateRaw": "4:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-28T16:00:00+12:00",
-      "daysToClose": 16,
+      "daysToClose": 15,
       "status": "open",
       "url": "https://www.gets.govt.nz/DCC/ExternalTenderDetails.htm?id=33935206",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33997733",
@@ -2545,14 +2221,14 @@
       "organization": "Rotorua District Council",
       "closeDateRaw": "5:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-28T17:00:00+12:00",
-      "daysToClose": 16,
+      "daysToClose": 15,
       "status": "open",
       "url": "https://www.gets.govt.nz/ROTDC/ExternalTenderDetails.htm?id=33997733",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34053940",
@@ -2563,14 +2239,14 @@
       "organization": "Hamilton City Council",
       "closeDateRaw": "5:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-28T17:00:00+12:00",
-      "daysToClose": 16,
+      "daysToClose": 15,
       "status": "open",
       "url": "https://www.gets.govt.nz/HamCC/ExternalTenderDetails.htm?id=34053940",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33929641",
@@ -2581,14 +2257,14 @@
       "organization": "Ministry of Foreign Affairs and Trade",
       "closeDateRaw": "5:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-28T17:00:00+12:00",
-      "daysToClose": 16,
+      "daysToClose": 15,
       "status": "open",
       "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=33929641",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34050764",
@@ -2599,14 +2275,14 @@
       "organization": "Gisborne District Council",
       "closeDateRaw": "5:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-28T17:00:00+12:00",
-      "daysToClose": 16,
+      "daysToClose": 15,
       "status": "open",
       "url": "https://www.gets.govt.nz/GDC/ExternalTenderDetails.htm?id=34050764",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33995726",
@@ -2617,14 +2293,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 28 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-28T17:00:00+12:00",
-      "daysToClose": 16,
+      "daysToClose": 15,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=33995726",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34048938",
@@ -2635,14 +2311,14 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "12:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T12:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34048938",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34018838",
@@ -2653,14 +2329,14 @@
       "organization": "Buller District Council",
       "closeDateRaw": "3:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T15:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/BULLR/ExternalTenderDetails.htm?id=34018838",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33809999",
@@ -2671,14 +2347,14 @@
       "organization": "Electricity Authority",
       "closeDateRaw": "3:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T15:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/EA/ExternalTenderDetails.htm?id=33809999",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34062593",
@@ -2689,14 +2365,14 @@
       "organization": "New Zealand Police",
       "closeDateRaw": "3:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T15:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZP/ExternalTenderDetails.htm?id=34062593",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33995353",
@@ -2707,14 +2383,14 @@
       "organization": "Opotiki District Council",
       "closeDateRaw": "4:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T16:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/ODC/ExternalTenderDetails.htm?id=33995353",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33776591",
@@ -2725,14 +2401,14 @@
       "organization": "WaterCare Services Ltd",
       "closeDateRaw": "4:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T16:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/WSL/ExternalTenderDetails.htm?id=33776591",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34042583",
@@ -2743,14 +2419,14 @@
       "organization": "Environment Canterbury",
       "closeDateRaw": "4:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T16:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=34042583",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33991836",
@@ -2761,14 +2437,14 @@
       "organization": "Creative New Zealand",
       "closeDateRaw": "4:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T16:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/CRNZ/ExternalTenderDetails.htm?id=33991836",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33944305",
@@ -2779,14 +2455,14 @@
       "organization": "KiwiRail Group",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=33944305",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33849790",
@@ -2797,14 +2473,14 @@
       "organization": "Ministry of Foreign Affairs and Trade",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=33849790",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34011584",
@@ -2815,14 +2491,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34011584",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34011114",
@@ -2833,14 +2509,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34011114",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34012517",
@@ -2851,14 +2527,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34012517",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33895043",
@@ -2869,14 +2545,14 @@
       "organization": "New Zealand Defence Force",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=33895043",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34039527",
@@ -2887,14 +2563,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34039527",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34039524",
@@ -2905,14 +2581,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34039524",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33886199",
@@ -2923,14 +2599,14 @@
       "organization": "Hutt City Council",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/HCC/ExternalTenderDetails.htm?id=33886199",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33977431",
@@ -2941,14 +2617,14 @@
       "organization": "New Zealand Defence Force",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=33977431",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34016053",
@@ -2959,14 +2635,14 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34016053",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33997820",
@@ -2977,14 +2653,14 @@
       "organization": "Whakatane District Council",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/WHDC/ExternalTenderDetails.htm?id=33997820",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33935398",
@@ -2995,14 +2671,14 @@
       "organization": "Westland District Council",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/WDC/ExternalTenderDetails.htm?id=33935398",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34044692",
@@ -3013,14 +2689,14 @@
       "organization": "Waikato Regional Council",
       "closeDateRaw": "5:00 PM 29 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-29T17:00:00+12:00",
-      "daysToClose": 17,
+      "daysToClose": 16,
       "status": "open",
       "url": "https://www.gets.govt.nz/WARC/ExternalTenderDetails.htm?id=34044692",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34019851",
@@ -3031,14 +2707,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 1 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-01T17:00:00+12:00",
-      "daysToClose": 20,
+      "daysToClose": 19,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34019851",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34025912",
@@ -3049,14 +2725,14 @@
       "organization": "Queenstown-Lakes District Council",
       "closeDateRaw": "12:00 PM 2 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-02T12:00:00+12:00",
-      "daysToClose": 21,
+      "daysToClose": 20,
       "status": "open",
       "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34025912",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33969798",
@@ -3067,14 +2743,14 @@
       "organization": "Greater Wellington Regional Council",
       "closeDateRaw": "12:00 PM 2 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-02T12:00:00+12:00",
-      "daysToClose": 21,
+      "daysToClose": 20,
       "status": "open",
       "url": "https://www.gets.govt.nz/GWRC/ExternalTenderDetails.htm?id=33969798",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33977969",
@@ -3085,14 +2761,14 @@
       "organization": "Taupo District Council",
       "closeDateRaw": "2:00 PM 2 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-02T14:00:00+12:00",
-      "daysToClose": 21,
+      "daysToClose": 20,
       "status": "open",
       "url": "https://www.gets.govt.nz/TDC/ExternalTenderDetails.htm?id=33977969",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34028312",
@@ -3103,14 +2779,14 @@
       "organization": "University of Canterbury",
       "closeDateRaw": "2:00 PM 2 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-02T14:00:00+12:00",
-      "daysToClose": 21,
+      "daysToClose": 20,
       "status": "open",
       "url": "https://www.gets.govt.nz/UC/ExternalTenderDetails.htm?id=34028312",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34016734",
@@ -3121,14 +2797,14 @@
       "organization": "Southland District Council",
       "closeDateRaw": "4:00 PM 2 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-02T16:00:00+12:00",
-      "daysToClose": 21,
+      "daysToClose": 20,
       "status": "open",
       "url": "https://www.gets.govt.nz/SLDC/ExternalTenderDetails.htm?id=34016734",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34020434",
@@ -3139,14 +2815,14 @@
       "organization": "Victoria University of Wellington",
       "closeDateRaw": "5:00 PM 2 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-02T17:00:00+12:00",
-      "daysToClose": 21,
+      "daysToClose": 20,
       "status": "open",
       "url": "https://www.gets.govt.nz/VU/ExternalTenderDetails.htm?id=34020434",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34030465",
@@ -3157,14 +2833,14 @@
       "organization": "Energy Efficiency & Conservation Authority",
       "closeDateRaw": "5:00 PM 2 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-02T17:00:00+12:00",
-      "daysToClose": 21,
+      "daysToClose": 20,
       "status": "open",
       "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=34030465",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34016603",
@@ -3175,14 +2851,14 @@
       "organization": "New Zealand Transport Agency (Waka Kotahi) - HISTORIC",
       "closeDateRaw": "12:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T12:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34016603",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34016946",
@@ -3193,14 +2869,14 @@
       "organization": "Department of Conservation",
       "closeDateRaw": "12:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T12:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=34016946",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34030805",
@@ -3211,14 +2887,14 @@
       "organization": "Wairoa District Council",
       "closeDateRaw": "1:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T13:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/WAIRDC/ExternalTenderDetails.htm?id=34030805",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34055591",
@@ -3229,14 +2905,14 @@
       "organization": "Taupo District Council",
       "closeDateRaw": "2:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T14:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/TDC/ExternalTenderDetails.htm?id=34055591",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34013672",
@@ -3247,14 +2923,14 @@
       "organization": "Waipa District Council",
       "closeDateRaw": "2:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T14:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/WADC/ExternalTenderDetails.htm?id=34013672",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34037037",
@@ -3265,14 +2941,14 @@
       "organization": "New Zealand Defence Force",
       "closeDateRaw": "3:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T15:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=34037037",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34000409",
@@ -3283,14 +2959,14 @@
       "organization": "Tasman District Council",
       "closeDateRaw": "4:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T16:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/TASDC/ExternalTenderDetails.htm?id=34000409",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33959902",
@@ -3301,14 +2977,14 @@
       "organization": "Tasman District Council",
       "closeDateRaw": "4:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T16:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/TASDC/ExternalTenderDetails.htm?id=33959902",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34053552",
@@ -3319,14 +2995,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "4:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T16:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=34053552",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34027736",
@@ -3337,14 +3013,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T17:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34027736",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34018157",
@@ -3355,14 +3031,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T17:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34018157",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34030713",
@@ -3373,14 +3049,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T17:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34030713",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33809920",
@@ -3391,14 +3067,14 @@
       "organization": "Waitaki District Council",
       "closeDateRaw": "5:00 PM 3 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-03T17:00:00+12:00",
-      "daysToClose": 22,
+      "daysToClose": 21,
       "status": "open",
       "url": "https://www.gets.govt.nz/WAITDC/ExternalTenderDetails.htm?id=33809920",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33945922",
@@ -3409,14 +3085,14 @@
       "organization": "New Plymouth District Council",
       "closeDateRaw": "12:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-04T12:00:00+12:00",
-      "daysToClose": 23,
+      "daysToClose": 22,
       "status": "open",
       "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=33945922",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34009831",
@@ -3427,14 +3103,14 @@
       "organization": "Department of Corrections",
       "closeDateRaw": "12:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-04T12:00:00+12:00",
-      "daysToClose": 23,
+      "daysToClose": 22,
       "status": "open",
       "url": "https://www.gets.govt.nz/DC/ExternalTenderDetails.htm?id=34009831",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34037967",
@@ -3445,14 +3121,14 @@
       "organization": "Civil Aviation Authority",
       "closeDateRaw": "1:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-04T13:00:00+12:00",
-      "daysToClose": 23,
+      "daysToClose": 22,
       "status": "open",
       "url": "https://www.gets.govt.nz/CAA/ExternalTenderDetails.htm?id=34037967",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33994422",
@@ -3463,14 +3139,14 @@
       "organization": "Waipa District Council",
       "closeDateRaw": "2:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-04T14:00:00+12:00",
-      "daysToClose": 23,
+      "daysToClose": 22,
       "status": "open",
       "url": "https://www.gets.govt.nz/WADC/ExternalTenderDetails.htm?id=33994422",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34036391",
@@ -3481,14 +3157,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "3:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-04T15:00:00+12:00",
-      "daysToClose": 23,
+      "daysToClose": 22,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34036391",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34052626",
@@ -3499,14 +3175,32 @@
       "organization": "Manawatu District Council",
       "closeDateRaw": "4:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-04T16:00:00+12:00",
-      "daysToClose": 23,
+      "daysToClose": 22,
       "status": "open",
       "url": "https://www.gets.govt.nz/MDC/ExternalTenderDetails.htm?id=34052626",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "rfxId": "33885951",
+      "referenceNumber": "2026/RO/02",
+      "title": "Gore District Council Road Marking",
+      "tenderType": "Request for Tenders",
+      "tenderTypeCode": "RFT",
+      "organization": "Gore District Council",
+      "closeDateRaw": "5:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-06-04T17:00:00+12:00",
+      "daysToClose": 22,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/GRDC/ExternalTenderDetails.htm?id=33885951",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
     },
     {
       "rfxId": "34029399",
@@ -3517,14 +3211,50 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-04T17:00:00+12:00",
-      "daysToClose": 23,
+      "daysToClose": 22,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34029399",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "rfxId": "33920315",
+      "referenceNumber": "2026/RO/01",
+      "title": "ROAD NETWORK MAINTENANCE & RENEWAL2026/RO/01",
+      "tenderType": "Request for Tenders",
+      "tenderTypeCode": "RFT",
+      "organization": "Gore District Council",
+      "closeDateRaw": "5:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-06-04T17:00:00+12:00",
+      "daysToClose": 22,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/GRDC/ExternalTenderDetails.htm?id=33920315",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
+    },
+    {
+      "rfxId": "33909146",
+      "referenceNumber": "Contract ID 2026/RO/03",
+      "title": "URBAN CONCRETE 2026 to 2036",
+      "tenderType": "Request for Tenders",
+      "tenderTypeCode": "RFT",
+      "organization": "Gore District Council",
+      "closeDateRaw": "5:00 PM 4 Jun 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-06-04T17:00:00+12:00",
+      "daysToClose": 22,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/GRDC/ExternalTenderDetails.htm?id=33909146",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
     },
     {
       "rfxId": "34055730",
@@ -3535,14 +3265,14 @@
       "organization": "Dunedin City Council",
       "closeDateRaw": "12:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T12:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/DCC/ExternalTenderDetails.htm?id=34055730",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34061167",
@@ -3553,11 +3283,29 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "12:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T12:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34061167",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
+    },
+    {
+      "rfxId": "34088859",
+      "referenceNumber": "26-43",
+      "title": "SCADA, Telemetry and Control System Upgrade Advisor",
+      "tenderType": "Registration of Interest",
+      "tenderTypeCode": "ROI",
+      "organization": "Gisborne District Council",
+      "closeDateRaw": "3:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-06-05T15:00:00+12:00",
+      "daysToClose": 23,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/GDC/ExternalTenderDetails.htm?id=34088859",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": true
@@ -3571,14 +3319,14 @@
       "organization": "Whangarei District Council",
       "closeDateRaw": "3:30 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T15:30:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/WHADC/ExternalTenderDetails.htm?id=34060392",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34063465",
@@ -3589,14 +3337,14 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "4:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T16:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34063465",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34051541",
@@ -3607,14 +3355,14 @@
       "organization": "Whanganui District Council",
       "closeDateRaw": "4:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T16:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/WHANDC/ExternalTenderDetails.htm?id=34051541",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33916274",
@@ -3625,14 +3373,14 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "4:30 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T16:30:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33916274",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33356002",
@@ -3643,14 +3391,14 @@
       "organization": "Hamilton City Council",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/HamCC/ExternalTenderDetails.htm?id=33356002",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34028672",
@@ -3661,14 +3409,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34028672",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34046821",
@@ -3679,14 +3427,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34046821",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34044758",
@@ -3697,14 +3445,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34044758",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34045422",
@@ -3715,14 +3463,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34045422",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34045726",
@@ -3733,14 +3481,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34045726",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34037979",
@@ -3751,14 +3499,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34037979",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34055798",
@@ -3769,14 +3517,14 @@
       "organization": "Guardians of New Zealand Superannuation",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/GNZS/ExternalTenderDetails.htm?id=34055798",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33918527",
@@ -3787,14 +3535,14 @@
       "organization": "Radio New Zealand",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/RNZ/ExternalTenderDetails.htm?id=33918527",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34022955",
@@ -3805,14 +3553,14 @@
       "organization": "New Zealand Police",
       "closeDateRaw": "5:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T17:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZP/ExternalTenderDetails.htm?id=34022955",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:25+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33817462",
@@ -3823,14 +3571,14 @@
       "organization": "Maritime New Zealand",
       "closeDateRaw": "8:00 PM 5 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-05T20:00:00+12:00",
-      "daysToClose": 24,
+      "daysToClose": 23,
       "status": "open",
       "url": "https://www.gets.govt.nz/MNZ/ExternalTenderDetails.htm?id=33817462",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34027880",
@@ -3841,14 +3589,14 @@
       "organization": "Civil Aviation Authority",
       "closeDateRaw": "12:00 PM 8 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-08T12:00:00+12:00",
-      "daysToClose": 27,
+      "daysToClose": 26,
       "status": "open",
       "url": "https://www.gets.govt.nz/CAA/ExternalTenderDetails.htm?id=34027880",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34050552",
@@ -3859,14 +3607,14 @@
       "organization": "Invercargill City Council",
       "closeDateRaw": "2:00 PM 8 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-08T14:00:00+12:00",
-      "daysToClose": 27,
+      "daysToClose": 26,
       "status": "open",
       "url": "https://www.gets.govt.nz/ICC/ExternalTenderDetails.htm?id=34050552",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34064106",
@@ -3877,14 +3625,14 @@
       "organization": "New Zealand Post Limited",
       "closeDateRaw": "3:00 PM 8 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-08T15:00:00+12:00",
-      "daysToClose": 27,
+      "daysToClose": 26,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZPL/ExternalTenderDetails.htm?id=34064106",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34062243",
@@ -3895,14 +3643,14 @@
       "organization": "Porirua City Council",
       "closeDateRaw": "4:00 PM 8 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-08T16:00:00+12:00",
-      "daysToClose": 27,
+      "daysToClose": 26,
       "status": "open",
       "url": "https://www.gets.govt.nz/PCC/ExternalTenderDetails.htm?id=34062243",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34038416",
@@ -3913,14 +3661,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 8 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-08T17:00:00+12:00",
-      "daysToClose": 27,
+      "daysToClose": 26,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34038416",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34061132",
@@ -3931,14 +3679,14 @@
       "organization": "National Infrastructure Funding and Financing Ltd",
       "closeDateRaw": "5:00 PM 8 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-08T17:00:00+12:00",
-      "daysToClose": 27,
+      "daysToClose": 26,
       "status": "open",
       "url": "https://www.gets.govt.nz/CFH/ExternalTenderDetails.htm?id=34061132",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34064828",
@@ -3949,14 +3697,14 @@
       "organization": "Masterton District Council",
       "closeDateRaw": "12:00 PM 9 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-09T12:00:00+12:00",
-      "daysToClose": 28,
+      "daysToClose": 27,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSTN/ExternalTenderDetails.htm?id=34064828",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34049099",
@@ -3967,14 +3715,14 @@
       "organization": "Napier City Council",
       "closeDateRaw": "2:00 PM 9 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-09T14:00:00+12:00",
-      "daysToClose": 28,
+      "daysToClose": 27,
       "status": "open",
       "url": "https://www.gets.govt.nz/NCCO/ExternalTenderDetails.htm?id=34049099",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34058853",
@@ -3985,14 +3733,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "3:00 PM 9 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-09T15:00:00+12:00",
-      "daysToClose": 28,
+      "daysToClose": 27,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34058853",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:47+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34055300",
@@ -4003,14 +3751,14 @@
       "organization": "New Zealand Transport Agency (Waka Kotahi) - HISTORIC",
       "closeDateRaw": "4:00 PM 9 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-09T16:00:00+12:00",
-      "daysToClose": 28,
+      "daysToClose": 27,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34055300",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34015184",
@@ -4021,14 +3769,14 @@
       "organization": "South Taranaki District Council",
       "closeDateRaw": "12:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-10T12:00:00+12:00",
-      "daysToClose": 29,
+      "daysToClose": 28,
       "status": "open",
       "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=34015184",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34059204",
@@ -4039,14 +3787,14 @@
       "organization": "Department of Conservation",
       "closeDateRaw": "12:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-10T12:00:00+12:00",
-      "daysToClose": 29,
+      "daysToClose": 28,
       "status": "open",
       "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=34059204",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34082497",
@@ -4057,14 +3805,14 @@
       "organization": "WaterCare Services Ltd",
       "closeDateRaw": "12:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-10T12:00:00+12:00",
-      "daysToClose": 29,
+      "daysToClose": 28,
       "status": "open",
       "url": "https://www.gets.govt.nz/WSL/ExternalTenderDetails.htm?id=34082497",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34042439",
@@ -4075,11 +3823,29 @@
       "organization": "Wellington City Council",
       "closeDateRaw": "12:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-10T12:00:00+12:00",
-      "daysToClose": 29,
+      "daysToClose": 28,
       "status": "open",
       "url": "https://www.gets.govt.nz/WCC/ExternalTenderDetails.htm?id=34042439",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
+    },
+    {
+      "rfxId": "33963764",
+      "referenceNumber": "[None]",
+      "title": "Ashburton Hospital – Basement Hot & Cold Water Pipework Replacement (M&V)",
+      "tenderType": "Request for Tenders",
+      "tenderTypeCode": "RFT",
+      "organization": "Health New Zealand (Te Whatu Ora)",
+      "closeDateRaw": "4:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-06-10T16:00:00+12:00",
+      "daysToClose": 28,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33963764",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": true
@@ -4093,14 +3859,14 @@
       "organization": "Waimakariri District Council",
       "closeDateRaw": "4:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-10T16:00:00+12:00",
-      "daysToClose": 29,
+      "daysToClose": 28,
       "status": "open",
       "url": "https://www.gets.govt.nz/WAIDC/ExternalTenderDetails.htm?id=34076744",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34073660",
@@ -4111,14 +3877,14 @@
       "organization": "Buller District Council",
       "closeDateRaw": "4:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-10T16:00:00+12:00",
-      "daysToClose": 29,
+      "daysToClose": 28,
       "status": "open",
       "url": "https://www.gets.govt.nz/BULLR/ExternalTenderDetails.htm?id=34073660",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33731454",
@@ -4129,14 +3895,14 @@
       "organization": "Kaikoura District Council",
       "closeDateRaw": "4:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-10T16:00:00+12:00",
-      "daysToClose": 29,
+      "daysToClose": 28,
       "status": "open",
       "url": "https://www.gets.govt.nz/KDC/ExternalTenderDetails.htm?id=33731454",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34084034",
@@ -4147,14 +3913,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 10 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-10T17:00:00+12:00",
-      "daysToClose": 29,
+      "daysToClose": 28,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34084034",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33944946",
@@ -4165,11 +3931,29 @@
       "organization": "Department of Corrections",
       "closeDateRaw": "12:00 PM 11 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-11T12:00:00+12:00",
-      "daysToClose": 30,
+      "daysToClose": 29,
       "status": "open",
       "url": "https://www.gets.govt.nz/DC/ExternalTenderDetails.htm?id=33944946",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
+    },
+    {
+      "rfxId": "34089675",
+      "referenceNumber": "[None]",
+      "title": "RFP- Health NZ Centralised Engineering Store, Inventory Management and Consignment Services",
+      "tenderType": "Request for Proposals",
+      "tenderTypeCode": "RFP",
+      "organization": "Health New Zealand (Te Whatu Ora)",
+      "closeDateRaw": "12:00 PM 11 Jun 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-06-11T12:00:00+12:00",
+      "daysToClose": 29,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34089675",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": true
@@ -4183,14 +3967,14 @@
       "organization": "Waikato District Council",
       "closeDateRaw": "3:00 PM 11 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-11T15:00:00+12:00",
-      "daysToClose": 30,
+      "daysToClose": 29,
       "status": "open",
       "url": "https://www.gets.govt.nz/WaikDC/ExternalTenderDetails.htm?id=33721836",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34071803",
@@ -4201,14 +3985,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 11 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-11T17:00:00+12:00",
-      "daysToClose": 30,
+      "daysToClose": 29,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34071803",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34080054",
@@ -4219,11 +4003,29 @@
       "organization": "New Zealand Police",
       "closeDateRaw": "12:00 PM 12 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-12T12:00:00+12:00",
-      "daysToClose": 31,
+      "daysToClose": 30,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZP/ExternalTenderDetails.htm?id=34080054",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
+    },
+    {
+      "rfxId": "34088826",
+      "referenceNumber": "PC00492",
+      "title": "Arotahi Titahi Bay Beach – Koangaumu (South End) Pre-implementation Phase",
+      "tenderType": "Request for Proposals",
+      "tenderTypeCode": "RFP",
+      "organization": "Porirua City Council",
+      "closeDateRaw": "4:00 PM 12 Jun 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-06-12T16:00:00+12:00",
+      "daysToClose": 30,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/PCC/ExternalTenderDetails.htm?id=34088826",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": true
@@ -4237,14 +4039,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 12 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-12T17:00:00+12:00",
-      "daysToClose": 31,
+      "daysToClose": 30,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34055156",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34012999",
@@ -4255,14 +4057,14 @@
       "organization": "Great South",
       "closeDateRaw": "5:00 PM 12 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-12T17:00:00+12:00",
-      "daysToClose": 31,
+      "daysToClose": 30,
       "status": "open",
       "url": "https://www.gets.govt.nz/GRTSTH/ExternalTenderDetails.htm?id=34012999",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34061869",
@@ -4273,14 +4075,14 @@
       "organization": "Rotorua District Council",
       "closeDateRaw": "4:00 PM 15 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-15T16:00:00+12:00",
-      "daysToClose": 34,
+      "daysToClose": 33,
       "status": "open",
       "url": "https://www.gets.govt.nz/ROTDC/ExternalTenderDetails.htm?id=34061869",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33990900",
@@ -4291,14 +4093,14 @@
       "organization": "Thames-Coromandel District Council",
       "closeDateRaw": "4:00 PM 15 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-15T16:00:00+12:00",
-      "daysToClose": 34,
+      "daysToClose": 33,
       "status": "open",
       "url": "https://www.gets.govt.nz/TCDC/ExternalTenderDetails.htm?id=33990900",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34042651",
@@ -4309,14 +4111,14 @@
       "organization": "Tasman District Council",
       "closeDateRaw": "4:00 PM 17 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-17T16:00:00+12:00",
-      "daysToClose": 36,
+      "daysToClose": 35,
       "status": "open",
       "url": "https://www.gets.govt.nz/TASDC/ExternalTenderDetails.htm?id=34042651",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34055595",
@@ -4327,14 +4129,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 17 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-17T17:00:00+12:00",
-      "daysToClose": 36,
+      "daysToClose": 35,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34055595",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34020429",
@@ -4345,14 +4147,14 @@
       "organization": "Selwyn District Council",
       "closeDateRaw": "4:00 PM 19 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-19T16:00:00+12:00",
-      "daysToClose": 38,
+      "daysToClose": 37,
       "status": "open",
       "url": "https://www.gets.govt.nz/SDC/ExternalTenderDetails.htm?id=34020429",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34073729",
@@ -4363,11 +4165,29 @@
       "organization": "Gore District Council",
       "closeDateRaw": "5:00 PM 19 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-19T17:00:00+12:00",
-      "daysToClose": 38,
+      "daysToClose": 37,
       "status": "open",
       "url": "https://www.gets.govt.nz/GRDC/ExternalTenderDetails.htm?id=34073729",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
+      "fitScore": 50,
+      "reasons": [],
+      "isNew": false
+    },
+    {
+      "rfxId": "34083913",
+      "referenceNumber": "C-25-063",
+      "title": "Hydraulic Modelling Panel",
+      "tenderType": "Request for Proposals",
+      "tenderTypeCode": "RFP",
+      "organization": "Queenstown-Lakes District Council",
+      "closeDateRaw": "12:00 PM 23 Jun 2026 (Pacific/Auckland UTC+12:00)",
+      "closeDateIso": "2026-06-23T12:00:00+12:00",
+      "daysToClose": 41,
+      "status": "open",
+      "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34083913",
+      "contractValue": 0,
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
       "isNew": true
@@ -4381,14 +4201,14 @@
       "organization": "Ministry of Education - School Infrastructure",
       "closeDateRaw": "5:00 PM 30 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-30T17:00:00+12:00",
-      "daysToClose": 49,
+      "daysToClose": 48,
       "status": "open",
       "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=32504269",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33830698",
@@ -4399,14 +4219,14 @@
       "organization": "Ministry of Defence",
       "closeDateRaw": "5:00 PM 30 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-30T17:00:00+12:00",
-      "daysToClose": 49,
+      "daysToClose": 48,
       "status": "open",
       "url": "https://www.gets.govt.nz/MD/ExternalTenderDetails.htm?id=33830698",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "31924125",
@@ -4417,14 +4237,14 @@
       "organization": "University of Canterbury",
       "closeDateRaw": "5:00 PM 30 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-30T17:00:00+12:00",
-      "daysToClose": 49,
+      "daysToClose": 48,
       "status": "open",
       "url": "https://www.gets.govt.nz/UC/ExternalTenderDetails.htm?id=31924125",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33721769",
@@ -4435,14 +4255,14 @@
       "organization": "Transpower New Zealand Limited",
       "closeDateRaw": "5:00 PM 30 Jun 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-06-30T17:00:00+12:00",
-      "daysToClose": 49,
+      "daysToClose": 48,
       "status": "open",
       "url": "https://www.gets.govt.nz/TNZ/ExternalTenderDetails.htm?id=33721769",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34018670",
@@ -4453,32 +4273,14 @@
       "organization": "Hamilton City Council",
       "closeDateRaw": "2:30 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-07-03T14:30:00+12:00",
-      "daysToClose": 52,
+      "daysToClose": 51,
       "status": "open",
       "url": "https://www.gets.govt.nz/HamCC/ExternalTenderDetails.htm?id=34018670",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
-    },
-    {
-      "rfxId": "33920315",
-      "referenceNumber": "2026/RO/01",
-      "title": "ROAD NETWORK MAINTENANCE & RENEWAL2026/RO/01",
-      "tenderType": "Request for Tenders",
-      "tenderTypeCode": "RFT",
-      "organization": "Gore District Council",
-      "closeDateRaw": "5:00 PM 4 Jul 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-07-04T17:00:00+12:00",
-      "daysToClose": 53,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/GRDC/ExternalTenderDetails.htm?id=33920315",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
-      "fitScore": 50,
-      "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33994931",
@@ -4489,14 +4291,14 @@
       "organization": "Ministry for Primary Industries",
       "closeDateRaw": "5:00 PM 13 Jul 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-07-13T17:00:00+12:00",
-      "daysToClose": 62,
+      "daysToClose": 61,
       "status": "open",
       "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=33994931",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33829359",
@@ -4507,14 +4309,14 @@
       "organization": "Energy Efficiency & Conservation Authority",
       "closeDateRaw": "5:00 PM 15 Jul 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-07-15T17:00:00+12:00",
-      "daysToClose": 64,
+      "daysToClose": 63,
       "status": "open",
       "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=33829359",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33796986",
@@ -4525,14 +4327,14 @@
       "organization": "Waikato Regional Council",
       "closeDateRaw": "5:00 PM 27 Jul 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-07-27T17:00:00+12:00",
-      "daysToClose": 76,
+      "daysToClose": 75,
       "status": "open",
       "url": "https://www.gets.govt.nz/WARC/ExternalTenderDetails.htm?id=33796986",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34000870",
@@ -4543,14 +4345,14 @@
       "organization": "Ministry of Foreign Affairs and Trade",
       "closeDateRaw": "5:00 PM 31 Jul 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-07-31T17:00:00+12:00",
-      "daysToClose": 80,
+      "daysToClose": 79,
       "status": "open",
       "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=34000870",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33989426",
@@ -4561,14 +4363,14 @@
       "organization": "Greater Wellington Regional Council",
       "closeDateRaw": "11:30 AM 24 Aug 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-08-24T11:30:00+12:00",
-      "daysToClose": 104,
+      "daysToClose": 103,
       "status": "open",
       "url": "https://www.gets.govt.nz/GWRC/ExternalTenderDetails.htm?id=33989426",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "32570089",
@@ -4579,14 +4381,14 @@
       "organization": "New Zealand Transport Agency (Waka Kotahi) - HISTORIC",
       "closeDateRaw": "12:00 PM 25 Sep 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-09-25T12:00:00+12:00",
-      "daysToClose": 136,
+      "daysToClose": 135,
       "status": "open",
       "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=32570089",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "32605417",
@@ -4597,14 +4399,14 @@
       "organization": "Ministry of Business, Innovation and Employment",
       "closeDateRaw": "5:00 PM 25 Sep 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-09-25T17:00:00+12:00",
-      "daysToClose": 136,
+      "daysToClose": 135,
       "status": "open",
       "url": "https://www.gets.govt.nz/MBIE/ExternalTenderDetails.htm?id=32605417",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "24901990",
@@ -4615,14 +4417,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "2:00 PM 30 Sep 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-09-30T14:00:00+13:00",
-      "daysToClose": 141,
+      "daysToClose": 140,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=24901990",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33909804",
@@ -4633,14 +4435,14 @@
       "organization": "Ministry of Foreign Affairs and Trade",
       "closeDateRaw": "5:00 PM 30 Sep 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-09-30T17:00:00+13:00",
-      "daysToClose": 141,
+      "daysToClose": 140,
       "status": "open",
       "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=33909804",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "32715753",
@@ -4651,14 +4453,14 @@
       "organization": "Christchurch City Council",
       "closeDateRaw": "12:00 PM 9 Oct 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-10-09T12:00:00+13:00",
-      "daysToClose": 150,
+      "daysToClose": 149,
       "status": "open",
       "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=32715753",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:26+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "28981632",
@@ -4669,14 +4471,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 31 Oct 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-10-31T17:00:00+13:00",
-      "daysToClose": 172,
+      "daysToClose": 171,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=28981632",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33099110",
@@ -4687,14 +4489,14 @@
       "organization": "Health New Zealand (Te Whatu Ora)",
       "closeDateRaw": "5:00 PM 25 Nov 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-11-25T17:00:00+13:00",
-      "daysToClose": 197,
+      "daysToClose": 196,
       "status": "open",
       "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33099110",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "27012113",
@@ -4705,14 +4507,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 27 Nov 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-11-27T17:00:00+13:00",
-      "daysToClose": 199,
+      "daysToClose": 198,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=27012113",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "30992153",
@@ -4723,14 +4525,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 30 Nov 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-11-30T17:00:00+13:00",
-      "daysToClose": 202,
+      "daysToClose": 201,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=30992153",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "23700412",
@@ -4741,14 +4543,14 @@
       "organization": "Department of Internal Affairs",
       "closeDateRaw": "5:00 PM 30 Nov 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-11-30T17:00:00+13:00",
-      "daysToClose": 202,
+      "daysToClose": 201,
       "status": "open",
       "url": "https://www.gets.govt.nz/DIA/ExternalTenderDetails.htm?id=23700412",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "25029557",
@@ -4759,14 +4561,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 30 Dec 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-12-30T17:00:00+13:00",
-      "daysToClose": 232,
+      "daysToClose": 231,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=25029557",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "26159518",
@@ -4777,14 +4579,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "12:00 PM 31 Dec 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-12-31T12:00:00+13:00",
-      "daysToClose": 233,
+      "daysToClose": 232,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=26159518",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "32246845",
@@ -4795,14 +4597,14 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "5:00 PM 31 Dec 2026 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2026-12-31T17:00:00+13:00",
-      "daysToClose": 233,
+      "daysToClose": 232,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=32246845",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "29757370",
@@ -4813,14 +4615,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "4:00 PM 29 Jan 2027 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2027-01-29T16:00:00+13:00",
-      "daysToClose": 262,
+      "daysToClose": 261,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=29757370",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "32443317",
@@ -4831,14 +4633,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 31 Mar 2027 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2027-03-31T17:00:00+13:00",
-      "daysToClose": 323,
+      "daysToClose": 322,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=32443317",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "29760054",
@@ -4849,14 +4651,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 30 Jun 2027 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2027-06-30T17:00:00+12:00",
-      "daysToClose": 414,
+      "daysToClose": 413,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=29760054",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "26271167",
@@ -4867,14 +4669,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 30 Nov 2027 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2027-11-30T17:00:00+13:00",
-      "daysToClose": 567,
+      "daysToClose": 566,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=26271167",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "31338623",
@@ -4885,14 +4687,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "2:00 PM 29 Feb 2028 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2028-02-29T14:00:00+13:00",
-      "daysToClose": 658,
+      "daysToClose": 657,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=31338623",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "29898765",
@@ -4903,14 +4705,14 @@
       "organization": "Energy Efficiency & Conservation Authority",
       "closeDateRaw": "12:00 PM 30 May 2028 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2028-05-30T12:00:00+12:00",
-      "daysToClose": 749,
+      "daysToClose": 748,
       "status": "open",
       "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=29898765",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "31232412",
@@ -4921,14 +4723,14 @@
       "organization": "Energy Efficiency & Conservation Authority",
       "closeDateRaw": "5:00 PM 30 May 2028 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2028-05-30T17:00:00+12:00",
-      "daysToClose": 749,
+      "daysToClose": 748,
       "status": "open",
       "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=31232412",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "29971844",
@@ -4939,14 +4741,14 @@
       "organization": "Accident Compensation Corporation",
       "closeDateRaw": "5:00 PM 30 Jun 2028 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2028-06-30T17:00:00+12:00",
-      "daysToClose": 780,
+      "daysToClose": 779,
       "status": "open",
       "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=29971844",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33266735",
@@ -4957,14 +4759,14 @@
       "organization": "Aurora Energy",
       "closeDateRaw": "5:00 PM 29 Dec 2028 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2028-12-29T17:00:00+13:00",
-      "daysToClose": 962,
+      "daysToClose": 961,
       "status": "open",
       "url": "https://www.gets.govt.nz/AURORA/ExternalTenderDetails.htm?id=33266735",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33266797",
@@ -4975,14 +4777,14 @@
       "organization": "Aurora Energy",
       "closeDateRaw": "5:00 PM 29 Dec 2028 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2028-12-29T17:00:00+13:00",
-      "daysToClose": 962,
+      "daysToClose": 961,
       "status": "open",
       "url": "https://www.gets.govt.nz/AURORA/ExternalTenderDetails.htm?id=33266797",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33732411",
@@ -4993,14 +4795,14 @@
       "organization": "Department of Internal Affairs",
       "closeDateRaw": "5:00 PM 25 May 2029 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2029-05-25T17:00:00+12:00",
-      "daysToClose": 1109,
+      "daysToClose": 1108,
       "status": "open",
       "url": "https://www.gets.govt.nz/DIA/ExternalTenderDetails.htm?id=33732411",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "33832412",
@@ -5011,36 +4813,13 @@
       "organization": "Ministry for Primary Industries",
       "closeDateRaw": "11:30 PM 30 Jun 2029 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2029-06-30T23:30:00+12:00",
-      "daysToClose": 1145,
+      "daysToClose": 1144,
       "status": "open",
       "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=33832412",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 50,
       "reasons": [],
-      "isNew": true
-    },
-    {
-      "rfxId": "33796371",
-      "referenceNumber": "1006141",
-      "title": "As Required Contractor Panel 2026-2029",
-      "tenderType": "Request for Proposals",
-      "tenderTypeCode": "RFP",
-      "organization": "Waikato Regional Council",
-      "closeDateRaw": "4:00 PM 13 May 2026 (Pacific/Auckland UTC+12:00)",
-      "closeDateIso": "2026-05-13T16:00:00+12:00",
-      "daysToClose": 1,
-      "status": "open",
-      "url": "https://www.gets.govt.nz/WARC/ExternalTenderDetails.htm?id=33796371",
-      "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:44+00:00",
-      "fitScore": 10,
-      "reasons": [
-        {
-          "kind": "minus",
-          "text": "Panel procurement (multi-supplier)"
-        }
-      ],
       "isNew": false
     },
     {
@@ -5052,11 +4831,11 @@
       "organization": "Department of Corrections",
       "closeDateRaw": "12:00 PM 18 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-18T12:00:00+12:00",
-      "daysToClose": 6,
+      "daysToClose": 5,
       "status": "open",
       "url": "https://www.gets.govt.nz/DC/ExternalTenderDetails.htm?id=33744507",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:45+00:00",
+      "scrapedAt": "2026-05-13T20:04:23+00:00",
       "fitScore": 10,
       "reasons": [
         {
@@ -5064,7 +4843,7 @@
           "text": "Hardware / physical goods"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34003335",
@@ -5075,11 +4854,11 @@
       "organization": "Wellington Water Limited",
       "closeDateRaw": "5:00 PM 25 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-25T17:00:00+12:00",
-      "daysToClose": 13,
+      "daysToClose": 12,
       "status": "open",
       "url": "https://www.gets.govt.nz/WWL/ExternalTenderDetails.htm?id=34003335",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 10,
       "reasons": [
         {
@@ -5087,7 +4866,7 @@
           "text": "Hardware / physical goods"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "34002717",
@@ -5098,11 +4877,11 @@
       "organization": "University of Waikato",
       "closeDateRaw": "4:00 PM 26 May 2026 (Pacific/Auckland UTC+12:00)",
       "closeDateIso": "2026-05-26T16:00:00+12:00",
-      "daysToClose": 14,
+      "daysToClose": 13,
       "status": "open",
       "url": "https://www.gets.govt.nz/UW/ExternalTenderDetails.htm?id=34002717",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:46+00:00",
+      "scrapedAt": "2026-05-13T20:04:24+00:00",
       "fitScore": 10,
       "reasons": [
         {
@@ -5110,7 +4889,7 @@
           "text": "Panel procurement (multi-supplier)"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "31377530",
@@ -5121,11 +4900,11 @@
       "organization": "Waimate District Council",
       "closeDateRaw": "4:30 PM 31 Mar 2027 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2027-03-31T16:30:00+13:00",
-      "daysToClose": 323,
+      "daysToClose": 322,
       "status": "open",
       "url": "https://www.gets.govt.nz/WAIMDC/ExternalTenderDetails.htm?id=31377530",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 10,
       "reasons": [
         {
@@ -5133,7 +4912,7 @@
           "text": "Panel procurement (multi-supplier)"
         }
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "rfxId": "32705858",
@@ -5144,11 +4923,11 @@
       "organization": "Ministry of Social Development",
       "closeDateRaw": "5:00 PM 31 Dec 2029 (Pacific/Auckland UTC+13:00)",
       "closeDateIso": "2029-12-31T17:00:00+13:00",
-      "daysToClose": 1329,
+      "daysToClose": 1328,
       "status": "open",
       "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=32705858",
       "contractValue": 0,
-      "scrapedAt": "2026-05-12T23:11:48+00:00",
+      "scrapedAt": "2026-05-13T20:04:27+00:00",
       "fitScore": 10,
       "reasons": [
         {
@@ -5156,7 +4935,7 @@
           "text": "Panel procurement (multi-supplier)"
         }
       ],
-      "isNew": true
+      "isNew": false
     }
   ]
 }

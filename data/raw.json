@@ -1,306 +1,6 @@
 [
   {
     "type": "tender",
-    "rfxId": "34204644",
-    "referenceNumber": "1289-253273",
-    "title": "RFT - Main Contractor for LSPM Fencing at Glen Taylor School",
-    "tenderType": "Request for Tenders",
-    "tenderTypeCode": "RFT",
-    "closeDate": "9:30 AM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Ministry of Education - School Infrastructure",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34204644",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34230418",
-    "referenceNumber": "26-184",
-    "title": "26-147 Bell Block Feasibility Study - Boat Ramp Upgrade/Bell Block Beach Access",
-    "tenderType": "Request for Information (Market research)",
-    "tenderTypeCode": "RFI",
-    "closeDate": "12:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "New Plymouth District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34230418",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34214767",
-    "referenceNumber": "[None]",
-    "title": "Clinical redevelopment projects at Hawke’s Bay Hospital",
-    "tenderType": "Request for Tenders",
-    "tenderTypeCode": "RFT",
-    "closeDate": "12:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Health New Zealand (Te Whatu Ora)",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34214767",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34075323",
-    "referenceNumber": "[None]",
-    "title": "Next Generation Electricity Network Engineering Consultancy Services Panel 2026",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "12:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Aurora Energy",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/AURORA/ExternalTenderDetails.htm?id=34075323",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34246494",
-    "referenceNumber": "2803",
-    "title": "RFP2803 - Museum AV Development, Supply & Installation",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "12:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Timaru District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/TIMDC/ExternalTenderDetails.htm?id=34246494",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34219914",
-    "referenceNumber": "CON26041",
-    "title": "Waiotira Road (South) Pavement Rehabilitation 2026",
-    "tenderType": "Request for Tenders",
-    "tenderTypeCode": "RFT",
-    "closeDate": "12:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Whangarei District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/WHADC/ExternalTenderDetails.htm?id=34219914",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34231043",
-    "referenceNumber": "[None]",
-    "title": "C-26-209 Sunshine Bay Revetment",
-    "tenderType": "Request for Quotations",
-    "tenderTypeCode": "RFQ",
-    "closeDate": "1:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Queenstown-Lakes District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34231043",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34183627",
-    "referenceNumber": "[None]",
-    "title": "Foot Health Maintenance Services to NZ Veterans",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "2:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "New Zealand Defence Force",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=34183627",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34205018",
-    "referenceNumber": "1075",
-    "title": "Contract 1075 - Professional Services - Structures and Geotechnical",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "4:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Waitaki District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/WAITDC/ExternalTenderDetails.htm?id=34205018",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34222943",
-    "referenceNumber": "202608",
-    "title": "ERP Programme Training Provider",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "4:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "New Zealand Institute for Bioeconomy Science Limited",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=34222943",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34126649",
-    "referenceNumber": "[None]",
-    "title": "KDC WWTP - Inlet screen and septage tender",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "4:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Kaikoura District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/KDC/ExternalTenderDetails.htm?id=34126649",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34225973",
-    "referenceNumber": "MajSC164",
-    "title": "MajSC164 Fisherman's Wharf Fender Upgrade",
-    "tenderType": "Request for Tenders",
-    "tenderTypeCode": "RFT",
-    "closeDate": "4:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Buller District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/BULLR/ExternalTenderDetails.htm?id=34225973",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34205284",
-    "referenceNumber": "[None]",
-    "title": "Psychology Intern Hub Services 2027 & 2028",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "4:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Health New Zealand (Te Whatu Ora)",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34205284",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34209075",
-    "referenceNumber": "863-26-687-PT",
-    "title": "Advance Notice: Gulf Harbour Ferry Operator Service",
-    "tenderType": "Notice of Information (Advance Notice)",
-    "tenderTypeCode": "NOI",
-    "closeDate": "5:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Auckland Transport",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/AT/ExternalTenderDetails.htm?id=34209075",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34332294",
-    "referenceNumber": "[None]",
-    "title": "Employee Assistance Programme Services",
-    "tenderType": "Notice of Information (Advance Notice)",
-    "tenderTypeCode": "NOI",
-    "closeDate": "5:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Ministry of Social Development",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34332294",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34231281",
-    "referenceNumber": "[None]",
-    "title": "Pahi Rd Bridge - Southern Abutment Strengthening",
-    "tenderType": "Request for Tenders",
-    "tenderTypeCode": "RFT",
-    "closeDate": "5:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Kaipara District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/KAIPDC/ExternalTenderDetails.htm?id=34231281",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34174524",
-    "referenceNumber": "Website Redesign",
-    "title": "PCE Website",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "5:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Parliamentary Commissioner for the Environment",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/PCE/ExternalTenderDetails.htm?id=34174524",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34332069",
-    "referenceNumber": "C0039026",
-    "title": "Printer Managed Services",
-    "tenderType": "Notice of Information (Advance Notice)",
-    "tenderTypeCode": "NOI",
-    "closeDate": "5:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Ministry for Primary Industries",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=34332069",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34301006",
-    "referenceNumber": "256966",
-    "title": "ROI for Main Contractor for Lifecycle Replacements Project at Maunu School",
-    "tenderType": "Registration of Interest",
-    "tenderTypeCode": "ROI",
-    "closeDate": "5:00 PM 3 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Ministry of Education - School Infrastructure",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34301006",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34244186",
-    "referenceNumber": "[None]",
-    "title": "Waitī Waters - finance, customer and billing, asset management systems",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "12:00 AM 4 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "South Wairarapa District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/SWAIDC/ExternalTenderDetails.htm?id=34244186",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
     "rfxId": "34247421",
     "referenceNumber": "[None]",
     "title": "Nelson City Council - Maintenance Services for Mountain Bike Trails - RFQ - 9 June 2026",
@@ -311,7 +11,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NCC/ExternalTenderDetails.htm?id=34247421",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -326,7 +26,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UA/ExternalTenderDetails.htm?id=34235559",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -341,7 +41,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=34227445",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -356,7 +56,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34239342",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -371,7 +71,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=34223055",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:15+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -386,7 +86,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/OP/ExternalTenderDetails.htm?id=34270228",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -401,7 +101,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HCC/ExternalTenderDetails.htm?id=34213048",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -416,7 +116,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/SSC/ExternalTenderDetails.htm?id=34243385",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -431,7 +131,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/VU/ExternalTenderDetails.htm?id=34184990",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -446,7 +146,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=34167323",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -461,7 +161,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WDC/ExternalTenderDetails.htm?id=34226122",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -476,7 +176,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/PNCC/ExternalTenderDetails.htm?id=34251319",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -491,7 +191,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/TDC/ExternalTenderDetails.htm?id=34185552",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -506,7 +206,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=34108260",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -521,7 +221,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UW/ExternalTenderDetails.htm?id=34244943",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -536,7 +236,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=34249590",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -551,7 +251,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34311825",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -566,7 +266,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=34261137",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34420919",
+    "referenceNumber": "[None]",
+    "title": "Waiora Waikato Hospital Helipad Remediation",
+    "tenderType": "Notice of Information (Advance Notice)",
+    "tenderTypeCode": "NOI",
+    "closeDate": "5:00 PM 7 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Health New Zealand (Te Whatu Ora)",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34420919",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -581,7 +296,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WSL/ExternalTenderDetails.htm?id=34217677",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -596,7 +311,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/GWRC/ExternalTenderDetails.htm?id=34323786",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -611,7 +326,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WSL/ExternalTenderDetails.htm?id=34399868",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -626,7 +341,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DC/ExternalTenderDetails.htm?id=34159312",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -641,7 +356,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34186119",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -656,7 +371,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34237891",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -671,7 +386,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34270607",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -686,7 +401,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZQA/ExternalTenderDetails.htm?id=34185916",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -701,7 +416,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/KCDC/ExternalTenderDetails.htm?id=34242265",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -716,7 +431,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34167858",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -731,7 +446,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HamCC/ExternalTenderDetails.htm?id=34018670",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -746,7 +461,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/SNZ/ExternalTenderDetails.htm?id=34271151",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -761,7 +476,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDU/ExternalTenderDetails.htm?id=34213921",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -776,7 +491,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WDC07/ExternalTenderDetails.htm?id=34270292",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -791,7 +506,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ORC/ExternalTenderDetails.htm?id=34220427",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -806,7 +521,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/PNCC/ExternalTenderDetails.htm?id=34262639",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -821,7 +536,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DCC/ExternalTenderDetails.htm?id=34204454",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -836,7 +551,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HCC/ExternalTenderDetails.htm?id=34393449",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -851,7 +566,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WAITDC/ExternalTenderDetails.htm?id=33317733",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -866,7 +581,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34252757",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -881,7 +596,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UC/ExternalTenderDetails.htm?id=34370614",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -896,7 +611,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34217539",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -911,7 +626,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34251985",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -926,7 +641,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/PNCC/ExternalTenderDetails.htm?id=34276905",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -941,7 +656,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NCCO/ExternalTenderDetails.htm?id=34318046",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -956,7 +671,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34222299",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -971,7 +686,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34214152",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -986,7 +701,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34324744",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1001,22 +716,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/TCDC/ExternalTenderDetails.htm?id=34258821",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
     "type": "tender",
-    "rfxId": "34270952",
+    "rfxId": "34424856",
     "referenceNumber": "[None]",
-    "title": "Data Centre Research New Zealand",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "5:00 PM 12 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Energy Efficiency & Conservation Authority",
+    "title": "Wairarapa Hospital - MRI and Endoscopy Facility",
+    "tenderType": "Notice of Information (Advance Notice)",
+    "tenderTypeCode": "NOI",
+    "closeDate": "5:00 PM 10 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Health New Zealand (Te Whatu Ora)",
     "status": "open",
-    "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=34270952",
+    "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34424856",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1031,7 +746,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34232125",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1046,7 +761,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=34118706",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1061,7 +776,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34268373",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1076,7 +791,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34268314",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1091,7 +806,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/AT/ExternalTenderDetails.htm?id=34108598",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1106,7 +821,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UO/ExternalTenderDetails.htm?id=34237802",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1121,7 +836,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/SWDC/ExternalTenderDetails.htm?id=34091758",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1136,7 +851,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34271403",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1151,7 +866,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34270284",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1166,7 +881,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/GDC/ExternalTenderDetails.htm?id=34254122",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34270952",
+    "referenceNumber": "[None]",
+    "title": "Data Centre Research New Zealand",
+    "tenderType": "Request for Proposals",
+    "tenderTypeCode": "RFP",
+    "closeDate": "5:00 PM 13 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Energy Efficiency & Conservation Authority",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=34270952",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1181,7 +911,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=34288356",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1196,7 +926,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=34350499",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1211,7 +941,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34333461",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1226,7 +956,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/LINZ/ExternalTenderDetails.htm?id=34177081",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1241,7 +971,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZFSC/ExternalTenderDetails.htm?id=34298729",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1256,7 +986,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MBIE/ExternalTenderDetails.htm?id=34159066",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1271,7 +1001,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34267533",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1286,7 +1016,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34229233",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1301,7 +1031,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34315637",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1316,7 +1046,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UA/ExternalTenderDetails.htm?id=34287334",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1331,7 +1061,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UO/ExternalTenderDetails.htm?id=34341667",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1346,7 +1076,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/TNZ/ExternalTenderDetails.htm?id=34352131",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1361,7 +1091,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34318962",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1376,7 +1106,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ICC/ExternalTenderDetails.htm?id=34158948",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1391,7 +1121,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34286576",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:50+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1406,7 +1136,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34275600",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1421,7 +1151,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34376115",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1436,7 +1166,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=30016662",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1451,7 +1181,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34332510",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1466,7 +1196,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=34041396",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1481,7 +1211,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WHADC/ExternalTenderDetails.htm?id=34278161",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1496,7 +1226,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HamCC/ExternalTenderDetails.htm?id=34343298",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:16+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1511,7 +1241,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HAUDC/ExternalTenderDetails.htm?id=34239440",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1526,7 +1256,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WAIDC/ExternalTenderDetails.htm?id=34325099",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1541,7 +1271,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WARC/ExternalTenderDetails.htm?id=34333467",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1556,7 +1286,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UW/ExternalTenderDetails.htm?id=34310023",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1571,7 +1301,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=33829359",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1586,7 +1316,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34298137",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1601,7 +1331,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ME/ExternalTenderDetails.htm?id=34273382",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1616,7 +1346,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34261994",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1631,7 +1361,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34262008",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1646,7 +1376,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34261967",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1661,7 +1391,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34261975",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1676,7 +1406,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34261956",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1691,7 +1421,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34261990",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1706,7 +1436,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34261987",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1721,7 +1451,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34261979",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1736,7 +1466,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34261999",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1751,7 +1481,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34298142",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1766,7 +1496,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=34147378",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1781,7 +1511,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=34146921",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1796,7 +1526,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=34147761",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1811,22 +1541,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/STDC/ExternalTenderDetails.htm?id=34147583",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34269128",
-    "referenceNumber": "C1609",
-    "title": "C1609 Saxton Green New Play Space - Construction",
-    "tenderType": "Request for Tenders",
-    "tenderTypeCode": "RFT",
-    "closeDate": "4:00 PM 16 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "Tasman District Council",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/TASDC/ExternalTenderDetails.htm?id=34269128",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1841,7 +1556,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MDC/ExternalTenderDetails.htm?id=34222714",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1856,7 +1571,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34246710",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1871,7 +1586,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34281266",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1886,7 +1601,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34281299",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1901,7 +1616,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34319108",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1916,7 +1631,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34262004",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1931,7 +1646,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34311732",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1946,7 +1661,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDU/ExternalTenderDetails.htm?id=34286817",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1961,7 +1676,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34280769",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1976,7 +1691,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=34183463",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -1991,7 +1706,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=34325783",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2006,7 +1721,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZPL/ExternalTenderDetails.htm?id=34408974",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34420765",
+    "referenceNumber": "[None]",
+    "title": "Pools & Leisure Retail Sector",
+    "tenderType": "Registration of Interest",
+    "tenderTypeCode": "ROI",
+    "closeDate": "2:00 PM 17 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Auckland Council",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/AC/ExternalTenderDetails.htm?id=34420765",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2021,7 +1751,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34320014",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2036,7 +1766,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=34329313",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2051,7 +1781,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34375661",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2066,7 +1796,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34281233",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2081,7 +1811,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34317165",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2096,7 +1826,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34320104",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2111,7 +1841,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34334794",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2126,7 +1856,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34403425",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2141,7 +1871,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34386865",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2156,7 +1886,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34310840",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2171,7 +1901,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/FMA/ExternalTenderDetails.htm?id=34275539",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2186,7 +1916,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/fndc/ExternalTenderDetails.htm?id=34286001",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2201,37 +1931,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/BULLR/ExternalTenderDetails.htm?id=34125599",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34344285",
-    "referenceNumber": "A2026012",
-    "title": "Battery Energy Storage System (BESS)",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "5:00 PM 20 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "New Zealand Institute for Bioeconomy Science Limited",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=34344285",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
-    "source": "NZ GETS"
-  },
-  {
-    "type": "tender",
-    "rfxId": "34345285",
-    "referenceNumber": "A2026013",
-    "title": "DB2 Main Switchboard Upgrade (MSB)",
-    "tenderType": "Request for Proposals",
-    "tenderTypeCode": "RFP",
-    "closeDate": "5:00 PM 20 Jul 2026 (Pacific/Auckland UTC+12:00)",
-    "organization": "New Zealand Institute for Bioeconomy Science Limited",
-    "status": "open",
-    "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=34345285",
-    "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2246,7 +1946,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34372077",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2261,7 +1961,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EA/ExternalTenderDetails.htm?id=34343001",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2276,7 +1976,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=34203286",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2291,7 +1991,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=34316815",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2306,7 +2006,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34344329",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34269128",
+    "referenceNumber": "C1609",
+    "title": "C1609 Saxton Green New Play Space - Construction",
+    "tenderType": "Request for Tenders",
+    "tenderTypeCode": "RFT",
+    "closeDate": "12:00 PM 21 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Tasman District Council",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/TASDC/ExternalTenderDetails.htm?id=34269128",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2321,7 +2036,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WCC/ExternalTenderDetails.htm?id=34409433",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2336,7 +2051,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WCC/ExternalTenderDetails.htm?id=34418058",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2351,7 +2066,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DCC/ExternalTenderDetails.htm?id=34340335",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2366,7 +2081,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UA/ExternalTenderDetails.htm?id=34334221",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2381,7 +2096,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34333697",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2396,7 +2111,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WBPDC/ExternalTenderDetails.htm?id=34298792",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2411,7 +2126,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MU/ExternalTenderDetails.htm?id=34419383",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2426,7 +2141,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34346922",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2441,7 +2156,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZCS/ExternalTenderDetails.htm?id=34316286",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2456,7 +2171,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HASDC/ExternalTenderDetails.htm?id=34356447",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2471,7 +2186,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HASDC/ExternalTenderDetails.htm?id=34331147",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2486,7 +2201,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34169934",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2501,7 +2216,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=34334519",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2516,7 +2231,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34331375",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2531,7 +2246,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZLC/ExternalTenderDetails.htm?id=34351617",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:51+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2546,7 +2261,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=30934772",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2561,7 +2276,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34347345",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2576,7 +2291,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ORC/ExternalTenderDetails.htm?id=34261501",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2591,7 +2306,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=34383634",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2606,7 +2321,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/AC/ExternalTenderDetails.htm?id=34418449",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2621,7 +2336,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34334341",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34420702",
+    "referenceNumber": "[None]",
+    "title": "Pools & Leisure Fitness Equipment",
+    "tenderType": "Request for Proposals",
+    "tenderTypeCode": "RFP",
+    "closeDate": "2:00 PM 24 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Auckland Council",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/AC/ExternalTenderDetails.htm?id=34420702",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2636,7 +2366,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WADC/ExternalTenderDetails.htm?id=34419711",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2651,7 +2381,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WADC/ExternalTenderDetails.htm?id=34421031",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2666,7 +2396,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZP/ExternalTenderDetails.htm?id=34379604",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2681,7 +2411,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33963348",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2696,7 +2426,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34359343",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2711,7 +2441,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/BPRC/ExternalTenderDetails.htm?id=34416783",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34344285",
+    "referenceNumber": "A2026012",
+    "title": "Battery Energy Storage System (BESS)",
+    "tenderType": "Request for Proposals",
+    "tenderTypeCode": "RFP",
+    "closeDate": "5:00 PM 24 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "New Zealand Institute for Bioeconomy Science Limited",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=34344285",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2726,7 +2471,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34383131",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34345285",
+    "referenceNumber": "A2026013",
+    "title": "DB2 Main Switchboard Upgrade (MSB)",
+    "tenderType": "Request for Proposals",
+    "tenderTypeCode": "RFP",
+    "closeDate": "5:00 PM 24 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "New Zealand Institute for Bioeconomy Science Limited",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/BSI/ExternalTenderDetails.htm?id=34345285",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2741,7 +2501,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34382567",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2756,7 +2516,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34361542",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2771,7 +2531,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDU/ExternalTenderDetails.htm?id=34270329",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2786,7 +2546,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WHANDC/ExternalTenderDetails.htm?id=34360465",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2801,7 +2561,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/PCC/ExternalTenderDetails.htm?id=34389856",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2816,7 +2576,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WARC/ExternalTenderDetails.htm?id=33796986",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2831,7 +2591,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34356647",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2846,7 +2606,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=34384150",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2861,7 +2621,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=34392208",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2876,7 +2636,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/AC/ExternalTenderDetails.htm?id=34392700",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2891,7 +2651,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=34381860",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2906,7 +2666,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/SNZ/ExternalTenderDetails.htm?id=34390984",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2921,7 +2681,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WBPDC/ExternalTenderDetails.htm?id=34373665",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2936,7 +2696,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34372252",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2951,7 +2711,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=34319097",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2966,7 +2726,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34379077",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2981,7 +2741,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=34388460",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -2996,7 +2756,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NPDC/ExternalTenderDetails.htm?id=34383402",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:17+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3011,7 +2771,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZFSC/ExternalTenderDetails.htm?id=34390025",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3026,7 +2786,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34375057",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3041,7 +2801,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/UA/ExternalTenderDetails.htm?id=34388182",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3056,7 +2816,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34403563",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3071,7 +2831,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HAUDC/ExternalTenderDetails.htm?id=34326720",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3086,7 +2846,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MBIE/ExternalTenderDetails.htm?id=33913746",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3101,7 +2861,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34319029",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3116,7 +2876,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34389268",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3131,7 +2891,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=34185422",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3146,7 +2906,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34400841",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3161,7 +2921,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34379555",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3176,7 +2936,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/SSC/ExternalTenderDetails.htm?id=34394459",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3191,7 +2951,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34380806",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3206,7 +2966,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34376924",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3221,7 +2981,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34393536",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3236,7 +2996,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34189870",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3251,7 +3011,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/QLDC/ExternalTenderDetails.htm?id=34314813",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34426753",
+    "referenceNumber": "CON26052",
+    "title": "Duck Creek B3 and Clotworthy B1 Bridge Strengthening",
+    "tenderType": "Request for Tenders",
+    "tenderTypeCode": "RFT",
+    "closeDate": "12:00 PM 31 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Whangarei District Council",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/WHADC/ExternalTenderDetails.htm?id=34426753",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3266,7 +3041,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ME/ExternalTenderDetails.htm?id=34410832",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3281,7 +3056,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ICC/ExternalTenderDetails.htm?id=34391973",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3296,7 +3071,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ORC/ExternalTenderDetails.htm?id=34401500",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3311,7 +3086,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DCC/ExternalTenderDetails.htm?id=34420788",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3326,7 +3101,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CHBDC/ExternalTenderDetails.htm?id=34379624",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34428308",
+    "referenceNumber": "1007316",
+    "title": "North Island Velvet Leaf Co-ordinator",
+    "tenderType": "Request for Proposals",
+    "tenderTypeCode": "RFP",
+    "closeDate": "4:00 PM 31 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Waikato Regional Council",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/WARC/ExternalTenderDetails.htm?id=34428308",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3341,7 +3131,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ICC/ExternalTenderDetails.htm?id=34410061",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3356,7 +3146,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MD/ExternalTenderDetails.htm?id=33830698",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3371,7 +3161,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=34134620",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3386,7 +3176,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MBIE/ExternalTenderDetails.htm?id=34414261",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34407369",
+    "referenceNumber": "[None]",
+    "title": "Kuranui College  – Block D Relocate Main Switchboard – Electrical Contractor",
+    "tenderType": "Registration of Interest",
+    "tenderTypeCode": "ROI",
+    "closeDate": "5:00 PM 31 Jul 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Ministry of Education - School Infrastructure",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34407369",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3401,7 +3206,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=34000870",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3416,7 +3221,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EA/ExternalTenderDetails.htm?id=34397235",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3431,7 +3236,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NRC/ExternalTenderDetails.htm?id=33301630",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3446,7 +3251,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=34201812",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3461,7 +3266,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=34417919",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3476,7 +3281,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MSTN/ExternalTenderDetails.htm?id=34394742",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3491,7 +3296,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CRC/ExternalTenderDetails.htm?id=34404392",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34352805",
+    "referenceNumber": "8081.22",
+    "title": "RFT to procure a Fire Alarm and Security Contractor - Maeroa Intermediate Fire Alarm Upgrade",
+    "tenderType": "Request for Tenders",
+    "tenderTypeCode": "RFT",
+    "closeDate": "4:00 PM 3 Aug 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Ministry of Education - School Infrastructure",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34352805",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3506,7 +3326,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=33994931",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3521,7 +3341,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CARTDC/ExternalTenderDetails.htm?id=34347353",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3536,7 +3356,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CARTDC/ExternalTenderDetails.htm?id=34347622",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3551,7 +3371,67 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=24350869",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34393531",
+    "referenceNumber": "4640",
+    "title": "Fleet Maintenance and Repair - Auckland",
+    "tenderType": "Request for Proposals",
+    "tenderTypeCode": "RFP",
+    "closeDate": "12:00 PM 4 Aug 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Fire and Emergency New Zealand",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/NZFSC/ExternalTenderDetails.htm?id=34393531",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34423084",
+    "referenceNumber": "[None]",
+    "title": "Home Bay Pontoon AKL 2026",
+    "tenderType": "Request for Proposals",
+    "tenderTypeCode": "RFP",
+    "closeDate": "12:00 PM 4 Aug 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Department of Conservation",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=34423084",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34428125",
+    "referenceNumber": "[None]",
+    "title": "Helicopter Services Panel",
+    "tenderType": "Request for Proposals",
+    "tenderTypeCode": "RFP",
+    "closeDate": "4:00 PM 4 Aug 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Otago Regional Council",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/ORC/ExternalTenderDetails.htm?id=34428125",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34415354",
+    "referenceNumber": "6596",
+    "title": "RFT - Electrical and Mechanical Services Contractor for Block A - Replace Boiler including Underfloor Pipework at Fraser Crescent School, Upper Hutt",
+    "tenderType": "Request for Tenders",
+    "tenderTypeCode": "RFT",
+    "closeDate": "5:00 PM 4 Aug 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Ministry of Education - School Infrastructure",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=34415354",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3566,7 +3446,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MU/ExternalTenderDetails.htm?id=34364701",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3581,7 +3461,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/BULLR/ExternalTenderDetails.htm?id=34365533",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3596,7 +3476,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DOC/ExternalTenderDetails.htm?id=34379292",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3611,7 +3491,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HASDC/ExternalTenderDetails.htm?id=34073721",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3626,7 +3506,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ENZ/ExternalTenderDetails.htm?id=34400770",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3641,7 +3521,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ICC/ExternalTenderDetails.htm?id=34382357",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3656,7 +3536,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=34361410",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3671,7 +3551,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NCC/ExternalTenderDetails.htm?id=34374410",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3686,7 +3566,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WBPDC/ExternalTenderDetails.htm?id=34384256",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3701,7 +3581,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/TWA/ExternalTenderDetails.htm?id=34391246",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3716,7 +3596,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CHBDC/ExternalTenderDetails.htm?id=34380262",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3731,7 +3611,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NRC/ExternalTenderDetails.htm?id=34345902",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3746,7 +3626,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZP/ExternalTenderDetails.htm?id=34381453",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3761,7 +3641,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/KRG/ExternalTenderDetails.htm?id=33943862",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3776,7 +3656,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=34268893",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3791,7 +3671,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZLC/ExternalTenderDetails.htm?id=34393788",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3806,7 +3686,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=34299840",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3821,7 +3701,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HCC/ExternalTenderDetails.htm?id=34403209",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3836,7 +3716,22 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/PHARMAC/ExternalTenderDetails.htm?id=34408606",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
+    "source": "NZ GETS"
+  },
+  {
+    "type": "tender",
+    "rfxId": "34276616",
+    "referenceNumber": "34276616",
+    "title": "Provision of information relating to Edge Housing Areas in the Ōtākaro Avon River Corridor",
+    "tenderType": "Request for Information (Market research)",
+    "tenderTypeCode": "RFI",
+    "closeDate": "4:00 PM 14 Aug 2026 (Pacific/Auckland UTC+12:00)",
+    "organization": "Christchurch City Council",
+    "status": "open",
+    "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=34276616",
+    "contractValue": 0,
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3851,7 +3746,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DCC/ExternalTenderDetails.htm?id=34394762",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:52+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3866,7 +3761,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZDF/ExternalTenderDetails.htm?id=34189926",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3881,7 +3776,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/GWRC/ExternalTenderDetails.htm?id=33989426",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3896,7 +3791,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=34372537",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3911,7 +3806,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/GDC/ExternalTenderDetails.htm?id=34327112",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3926,7 +3821,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=34175889",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3941,7 +3836,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CODC/ExternalTenderDetails.htm?id=34409865",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3956,7 +3851,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=32570089",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3971,7 +3866,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MBIE/ExternalTenderDetails.htm?id=32605417",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -3986,7 +3881,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=24901990",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4001,7 +3896,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EA/ExternalTenderDetails.htm?id=34204402",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4016,7 +3911,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MFAT/ExternalTenderDetails.htm?id=33909804",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4031,7 +3926,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/CCC/ExternalTenderDetails.htm?id=32715753",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4046,7 +3941,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MEDUR/ExternalTenderDetails.htm?id=32504269",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4061,7 +3956,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=28981632",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4076,7 +3971,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/HEALTHNZ/ExternalTenderDetails.htm?id=33099110",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4091,7 +3986,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=27012113",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4106,7 +4001,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=30992153",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4121,7 +4016,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DIA/ExternalTenderDetails.htm?id=23700412",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:18+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4136,7 +4031,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=25029557",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4151,7 +4046,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=26159518",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4166,7 +4061,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=32246845",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4181,7 +4076,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=29757370",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4196,7 +4091,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/WAIMDC/ExternalTenderDetails.htm?id=31377530",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4211,7 +4106,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=32443317",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4226,7 +4121,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=29760054",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4241,7 +4136,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=34127205",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4256,7 +4151,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=26271167",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4271,7 +4166,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=31338623",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4286,7 +4181,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=29898765",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4301,7 +4196,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/EECA/ExternalTenderDetails.htm?id=31232412",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4316,7 +4211,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/ACC/ExternalTenderDetails.htm?id=29971844",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4331,7 +4226,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/AURORA/ExternalTenderDetails.htm?id=33266735",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4346,7 +4241,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/AURORA/ExternalTenderDetails.htm?id=33266797",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4361,7 +4256,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/DIA/ExternalTenderDetails.htm?id=33732411",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4376,7 +4271,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MPI/ExternalTenderDetails.htm?id=33832412",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   },
   {
@@ -4391,7 +4286,7 @@
     "status": "open",
     "url": "https://www.gets.govt.nz/MSD/ExternalTenderDetails.htm?id=32705858",
     "contractValue": 0,
-    "scrapedAt": "2026-07-02T18:37:19+00:00",
+    "scrapedAt": "2026-07-03T19:38:53+00:00",
     "source": "NZ GETS"
   }
 ]
